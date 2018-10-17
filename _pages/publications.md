@@ -8,8 +8,8 @@ author_profile: true
 {% include base_path %}
 
 ---
-title: "High-speed Bullet Ejections during the AGB-to-Planetary Nebular Transition: HST Observations of the Carbon Star, V Hydrae"
-collection: publications
+"High-speed Bullet Ejections during the AGB-to-Planetary Nebular Transition: HST Observations of the Carbon Star, V Hydrae"
+
 citation: 'Sahai, R., Scibelli, S., & Morris, M. R.. (2016). &quot;High-speed Bullet Ejections during the AGB-to-Planetary Nebular Transition: HST Observations of the Carbon Star, V Hydrae&quot; <i>ApJ</i>, 827, 92'
 ---
 
