@@ -7,12 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
+[ADS Listings](https://ui.adsabs.harvard.edu/#search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%220%2FScibelli%2C%20S%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%220%2FScibelli%2C%20S%22)&q=%20%20author%3A%22Scibelli%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
 
-"High-speed Bullet Ejections during the AGB-to-Planetary Nebular Transition: HST Observations of the Carbon Star, V Hydrae"
-  'Sahai, R., Scibelli, S., & Morris, M. R.. (2016). &quot;High-speed Bullet Ejections during the AGB-to-Planetary Nebular Transition: HST    Observations of the Carbon Star, V Hydrae&quot; <i>ApJ</i>, 827, 92'
+* "High-speed Bullet Ejections during the AGB-to-Planetary Nebular Transition: HST Observations of the Carbon Star, V Hydrae"
+  
+cite: <font color="purple"> 'Sahai, R., Scibelli, S., & Morris, M. R.. (2016). &quot;High-speed Bullet Ejections during the AGB-to-Planetary Nebular Transition: HST Observations of the Carbon Star, V Hydrae&quot; <i>ApJ</i>, 827, 92' </font>
 
 [Download paper here](http://samscibelli.github.io/files/Vhya_apj_827_2_92.pdf)
 
-
+* 
 
 
