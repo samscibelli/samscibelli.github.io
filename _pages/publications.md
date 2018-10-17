@@ -19,9 +19,9 @@ cite: Sahai, R., Scibelli, S., & Morris, M. R. (2016). &quot;High-speed Bullet E
 
 [Download paper here](http://samscibelli.github.io/files/Vhya_apj_827_2_92.pdf)
 
-* <font color="purple">  "CENSUS OF BLUE STARS IN SDSS DR8" </font>
+* <font color="purple">  "Census of Blue Stars in SDSS DR8" </font>
 
-cite: 'Scibelli, S. (2014). &quot;CENSUS OF BLUE STARS IN SDSS DR8&quot; <i>APJS</i>. 215, 24.
+cite: Scibelli, S. (2014). &quot;Census of Blue Stars in SDSS DR8&quot; <i>APJS</i>. 215, 24.
 
 [Download paper here](http://samscibelli.github.io/files/Vhya_apj_827_2_92.pdf)
 
