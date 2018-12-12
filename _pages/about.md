@@ -18,5 +18,21 @@ Astrobiologists are interested in understanding the origins of organic chemistry
 
 ![Taurus Molecular Cloud](/images/Herschel_Taurus_PACS-SPIRE_625.jpg)
 
-*Herschel Image of the Taurus Molecular Cloud (~135pc away)*\
+*Herschel Image of the Taurus Molecular Cloud (~135pc away)*\\
 *ESA/Herschel/NASA/JPL-Caltech, CC BY-SA 3.0 IGO; Acknowledgement: R. Hurt (JPL-Caltech)*
+
+Previous Research Interests
+======
+***V Hydrae, an AGB star in Transition***
+
+As an intern at NASA's Jet Propulsion Laboratory, I worked on analyzing Hubble Data of the carbon star V Hydrae (V Hya). This unique object provides insight into the nature of the launching mechanism of jet-like outflows that are believed to be the cause of the poorly understood transition phase of AGB stars into aspherical planetary nebulae.
+
+[Vhya](/images/Artist's_Illustration_of_Scenario_for_Plasma_Ejections_from_V_Hydrae.jpg)\\
+*Link:https://www.jpl.nasa.gov/news/news.php?feature=6639*
+
+***Dark Matter and Gravitational Lensing***
+
+As an undergraduate physics student at Stony Brook University, I was interested in dark matter and gravitational lensing.  My project focused on trying to break the degeneracies between disc and halo contributions in spiral galaxy rotation curves by combining kinematics and lensing. [[arxiv]](https://arxiv.org/abs/1811.09277)
+
+Additionally, the summer before I started my undergraduate program, I interned at the Laser Teaching Center in the basement of the physics building at Stony Brook. I worked on understanding the caustic patterns that arise from evaporating water droplets, with the foresight in mind that understanding caustics would help me to formulate a project on gravitional lensing. [Undergrad research page here.](https://laser.physics.sunysb.edu/_samantha/index.html)
+
