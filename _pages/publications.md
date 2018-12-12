@@ -11,8 +11,8 @@ All ADS Listings [here](https://ui.adsabs.harvard.edu/#search/filter_author_face
 * **Scibelli, S.**, Sahai, R., & Morris, M. R. &quot;High-Velocity Bullets from V Hydrae, an AGB Star in Transition: Ejection History and Spatio-Kinematic Modeling&quot; (accepted to ApJ 2018)  [arxiv](https://arxiv.org/abs/1811.06556)
 
 
-* [Sahai, R., **Scibelli, S.**, & Morris, M. R. (2016). &quot;High-speed Bullet Ejections during the AGB-to-Planetary Nebular Transition: HST Observations of the Carbon Star, V Hydrae&quot; <i>ApJ</i>, 827, 92](http://samscibelli.github.io/files/Vhya_apj_827_2_92.pdf)
+* Sahai, R., **Scibelli, S.**, & Morris, M. R. (2016). &quot;High-speed Bullet Ejections during the AGB-to-Planetary Nebular Transition: HST Observations of the Carbon Star, V Hydrae&quot; <i>ApJ</i>, 827, 92 [pdf](http://samscibelli.github.io/files/Vhya_apj_827_2_92.pdf)
 
 
-* [**Scibelli, S.** (2014). &quot;Census of Blue Stars in SDSS DR8&quot; <i>APJS</i>. 215, 24.](http://samscibelli.github.io/files/Census_apjs_215_2_24.pdf)
+* **Scibelli, S.** (2014). &quot;Census of Blue Stars in SDSS DR8&quot; <i>APJS</i>. 215, 24. [pdf](http://samscibelli.github.io/files/Census_apjs_215_2_24.pdf)
 
