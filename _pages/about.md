@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I'm Samantha Scibelli, a graduate student and NSF Graduate Research Fellow in the Department of Astronomy and [Steward Observatory](https://www.as.arizona.edu/) at the University of Arizona. I am interested in the broader topics of star formation, astrochemistry and radio astronomy. Currently, I am focused on constraining the physical, kinematics, and chemical structure and evolution of low-mass prestellar cores. 
+Hi there! I'm Samantha Scibelli, a graduate student and NSF Graduate Research Fellow in the Department of Astronomy and [Steward Observatory](https://www.as.arizona.edu/) at the University of Arizona. I am interested in the broader topics of star formation, astrochemistry and radio astronomy. Currently, I am focused on constraining the physical, kinematic, and chemical structure of low-mass prestellar cores to better understand their evolution. 
 
 Current Research Interests
 ======
