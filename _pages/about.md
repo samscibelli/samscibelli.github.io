@@ -27,7 +27,7 @@ Previous Research Interests
 
 As an intern at NASA's Jet Propulsion Laboratory, I worked on analyzing Hubble Data of the carbon star V Hydrae (V Hya). This unique object provides insight into the nature of the launching mechanism of jet-like outflows that are believed to be the cause of the poorly understood transition phase of AGB stars into aspherical planetary nebulae.
 
-[Vhya](/images/Artist's_Illustration_of_Scenario_for_Plasma_Ejections_from_V_Hydrae.jpg)\\
+[Vhya](/images/Artists_Illustration_of_Scenario_for_Plasma_Ejections_from_V_Hydrae.jpg)\\
 *Link:https://www.jpl.nasa.gov/news/news.php?feature=6639*
 
 ***Dark Matter and Gravitational Lensing***
