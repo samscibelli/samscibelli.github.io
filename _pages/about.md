@@ -18,8 +18,9 @@ Astrobiologists are interested in understanding the origins of organic chemistry
 
 ![Taurus Molecular Cloud](/images/Herschel_Taurus_PACS-SPIRE_625.jpg)
 
-*Herschel Image of the Taurus Molecular Cloud (~135pc away)*\
-*ESA/Herschel/NASA/JPL-Caltech, CC BY-SA 3.0 IGO; Acknowledgement: R. Hurt (JPL-Caltech)*
+*Herschel Image of the Taurus Molecular Cloud (~135pc away)*
+
+*Credit: ESA/Herschel/NASA/JPL-Caltech, CC BY-SA 3.0 IGO; Acknowledgement: R. Hurt (JPL-Caltech)*
 
 Previous Research Interests
 ======
@@ -31,5 +32,5 @@ As an intern at NASA's Jet Propulsion Laboratory, I worked on analyzing Hubble D
 
 As an undergraduate physics student at Stony Brook University, I was interested in dark matter and gravitational lensing.  My project focused on trying to break the degeneracies between disc and halo contributions in spiral galaxy rotation curves by combining kinematics and lensing. [[arxiv]](https://arxiv.org/abs/1811.09277)
 
-Additionally, the summer before I started my undergraduate program, I interned at the Laser Teaching Center in the basement of the physics building at Stony Brook. I worked on understanding the caustic patterns that arise from evaporating water droplets, with the foresight in mind that understanding caustics would help me to formulate a project on gravitional lensing. [Undergrad research page here.](https://laser.physics.sunysb.edu/_samantha/index.html)
+Additionally, the summer before I started my undergraduate program, I interned at the Laser Teaching Center in the basement of the physics building at Stony Brook. I worked on understanding the caustic patterns that arise from evaporating water droplets, with the foresight in mind that understanding caustics would help me to formulate a project on gravitional lensing. [[Undergrad Research Page]](https://laser.physics.sunysb.edu/_samantha/index.html)
 
