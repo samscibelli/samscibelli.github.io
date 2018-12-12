@@ -23,5 +23,10 @@ var addressPoints = [
     "Paralia, Greece",
     38.036540,
     22.720880
+  ],
+  [
+    "Charlottesville, VA, USA",
+    38.0293, 
+    78.4767
   ]
 ];
