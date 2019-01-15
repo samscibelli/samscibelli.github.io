@@ -8,7 +8,7 @@ All ADS Listings [here](https://ui.adsabs.harvard.edu/#search/filter_author_face
 
 * **Scibelli, S.**, Rosalba, P., & Keeton, C. &quot;Biases in inferring dark matter profiles from dynamical and lensing measurements&quot; (submitted to MRNAS, 2018) [[ADS](https://ui.adsabs.harvard.edu/#abs/2018arXiv181106556S/abstract),[arxiv](https://arxiv.org/abs/1811.06556)]
 
-* **Scibelli, S.**, Sahai, R., & Morris, M. R. &quot;High-Velocity Bullets from V Hydrae, an AGB Star in Transition: Ejection History and Spatio-Kinematic Modeling&quot; <i>ApJ</i>, 870, 2 [[ADS](https://ui.adsabs.harvard.edu/#abs/2018arXiv181109277S/abstract),[arxiv](https://arxiv.org/abs/1811.09277)]
+* **Scibelli, S.**, Sahai, R., & Morris, M. R. (2019). &quot;High-Velocity Bullets from V Hydrae, an AGB Star in Transition: Ejection History and Spatio-Kinematic Modeling&quot; <i>ApJ</i>, 870, 2 [[ADS](https://ui.adsabs.harvard.edu/#abs/2018arXiv181109277S/abstract),[arxiv](https://arxiv.org/abs/1811.09277)]
 
 
 * Sahai, R., **Scibelli, S.**, & Morris, M. R. (2016). &quot;High-speed Bullet Ejections during the AGB-to-Planetary Nebular Transition: HST Observations of the Carbon Star, V Hydrae&quot; <i>ApJ</i>, 827, 92 [[ADS](https://ui.adsabs.harvard.edu/#abs/2016ApJ...827...92S/abstract),[pdf](http://samscibelli.github.io/files/Vhya_apj_827_2_92.pdf)]
