@@ -31,7 +31,7 @@ var addressPoints = [
   ],
   [
     "Avignon, France",
-    343.9493,
+    43.9493,
     4.8055
   ]
 ];
