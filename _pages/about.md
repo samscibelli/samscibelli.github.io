@@ -18,7 +18,7 @@ Astrobiologists are interested in understanding the origins of organic chemistry
 
 ![Taurus Molecular Cloud](/images/hersh_mol_image.jpeg)
 
-*Adapted from Herschel Image of the Taurus Molecular Cloud (~135pc away)*
+*Adapted Herschel Image of the Taurus Molecular Cloud (~135pc away)*
 
 *Credit: ESA/Herschel/NASA/JPL-Caltech, CC BY-SA 3.0 IGO; Acknowledgement: R. Hurt (JPL-Caltech)*
 
