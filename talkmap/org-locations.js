@@ -33,5 +33,10 @@ var addressPoints = [
     "Avignon, France",
     43.9493,
     4.8055
+  ],
+  [
+    "MPE, Garching, Germany",
+    48.2617,
+    11.6715
   ]
 ];
