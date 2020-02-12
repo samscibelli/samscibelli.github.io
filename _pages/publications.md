@@ -6,7 +6,7 @@ author_profile: true
 
 All ADS Listings [here](https://ui.adsabs.harvard.edu/#search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%220%2FScibelli%2C%20S%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%220%2FScibelli%2C%20S%22)&q=%20%20author%3A%22Scibelli%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
 
-* **Scibelli, S.** & Shirely, Y. (2020) &quot;Prevalence of Complex Organic Molecules in Starless and Prestellar Cores within the Taurus Molecular Cloud&quot; Accepted for Publication in ApJ. [[ADS](https://ui.adsabs.harvard.edu/abs/2020arXiv200202469S/abstract),[arxiv](https://arxiv.org/abs/2002.02469)]
+* **Scibelli, S.** & Shirley, Y. (2020) &quot;Prevalence of Complex Organic Molecules in Starless and Prestellar Cores within the Taurus Molecular Cloud&quot; Accepted for Publication in ApJ. [[ADS](https://ui.adsabs.harvard.edu/abs/2020arXiv200202469S/abstract),[arxiv](https://arxiv.org/abs/2002.02469)]
 
 * **Scibelli, S.**, Rosalba, P., & Keeton, C. (2019) &quot;Biases in inferring dark matter profiles from dynamical and lensing measurements&quot; MNRAS, 769. [[ADS](https://ui.adsabs.harvard.edu/#abs/2018arXiv181106556S/abstract),[arxiv](https://arxiv.org/abs/1811.06556)]
 
