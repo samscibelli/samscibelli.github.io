@@ -17,14 +17,10 @@ and technical fields. I was a camper when I was 16 and the
 experience motivated me to continue pursuing astronomy as a career. Now I am a counselor and hope to be that inspiration for the
 next generation of scientists and great thinkers!
 
-!(/images/astro1.jpg)
-!(/images/astro2.jpg)
-!(/images/astro5.jpg)
+![AstroCamp1](/images/astro1.jpg)
+![AstroCamp2](/images/astro2.jpg)
+![AstroCamp2](/images/astro5.jpg)
 
-"/images/astro1.jpg" width="250"height="200"> <img src="/images/astro2.jpg" width="250"height="200">
-
-<img src="/images/astro5.jpg" width="250"height="200"> 
-</p>
 
 [**Teen Astronomy Cafe**](http://www.teenastronomycafe.org/)
 
@@ -34,9 +30,8 @@ on interative computer activities and listen to presentations from the scientist
 The students also have the opportunity to ask the speaker and volunteers questions, learning what a day in the life 
 of an astronomer is all about!
 
-
-
-<img src="/images/cafe1.jpeg" width="350"height="300"> <img src="/images/cafe2.jpeg" width="350"height="300">
+![Cafe1](/images/cafe1.jpeg)
+![Cafe2](/images/cafe2.jpeg)
 
 
 
