@@ -33,8 +33,6 @@ Date: 2/5/18
 Observing at the MMT, a 6.5 meter optical telescope, tonight! We will be looking at a dying star (V Hydrae) which ejects gaseous bullets so fast it would only take them 30min to travel from Earth to the moon! 
 
 ![MMT1](/images/MMT_1.jpeg)
-![MMT2](/images/MMT_2.jpeg)
-![MMT3](/images/MMT_3.jpeg)
 
 
 [**ARO 12m Observations**](http://aro.as.arizona.edu/)
