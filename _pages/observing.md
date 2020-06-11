@@ -4,7 +4,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-**IRAM 30m Observations**[https://www.iram-institute.org/EN/30-meter-telescope.php]
+[**IRAM 30m Observations**](https://www.iram-institute.org/EN/30-meter-telescope.php)
 
 
 Date: 10/7/19 - 10/15/19
@@ -12,42 +12,37 @@ Date: 10/7/19 - 10/15/19
 
 Observing at the IRAM 30m telescope in Pico Veleta, Spain!
 
-<p>
-<img src="/images/IRAM_1.jpeg" width="200"height="150"> <img src="/images/IRAM_2.jpg" width="540"height="250"><br>
-</p>
+![IRAM1](/images/IRAM_1.jpeg)
+![IRAM2](/images/IRAM_2.jpg)
+
   
-<p style="text-decoration:underline;"><a href="https://www.sofia.usra.edu/">SOFIA Observations</a></p>
+[**SOFIA Observations**](https://www.sofia.usra.edu/)
 
-<p>Date: 9/28/18</p>
+Date: 9/28/18 
 
-<p>Observing on SOFIA tonight with polarization instrument HAWC+! We are looking at massive cold gas clumps to study the orientation of the magnetic field to see if it traces the gas outflows, with the goal of learning how massive stars are formed! How cool - a 2.5 telescope on an airplane!
-</p>
+Observing on SOFIA tonight with polarization instrument HAWC+! We are looking at massive cold gas clumps to study the orientation of the magnetic field to see if it traces the gas outflows, with the goal of learning how massive stars are formed! How cool - a 2.5 telescope on an airplane!
 
-<p>
-<img src="/images/SOFIA_1.jpeg" width="350"height="250"> <img src="/images/SOFIA_2.jpeg" width="350"height="250">
-</p>
-  
+![SOFIA1](/images/SOFIA_1.jpeg)
+![SOFIA2](/images/SOFIA_2.jpeg)
 
-<p style="text-decoration:underline;"><a href="https://www.mmto.org/">MMT Observations</a></p>
 
-<p>Date: 2/5/18</p>
+[**MMT Observations**](https://www.mmto.org/)
 
-<p>
+Date: 2/5/18
+
 Observing at the MMT, a 6.5 meter optical telescope, tonight! We will be looking at a dying star (V Hydrae) which ejects gaseous bullets so fast it would only take them 30min to travel from Earth to the moon! 
-</p>
 
-<p>
-<img src="/images/MMT_1.jpeg" width="180"height="120"> <img src="/images/MMT_2.jpeg" width="180"height="120"> <img src="/images/MMT_3.jpg" width="320"height="400">
-</p>
+![MMT1](/images/MMT_1.jpeg)
+![MMT2](/images/MMT_2.jpeg)
+![MMT3](/images/MMT_3.jpeg)
 
-<p style="text-decoration:underline;"><a href="http://aro.as.arizona.edu/">ARO 12m Observations</a></p>
 
-<p>Date: 10/29/17</p>
+[**ARO 12m Observations**](http://aro.as.arizona.edu/)
 
-<p>
+Date: 10/29/17
+
 The first of many nights observing with the 12m on Kitt Peak! We found some complex organic molecules (one of which is the cause of hangovers) in prestellar cores!
-</p>
 
-<p>
-<img src="/images/12m_3.jpg" width="440"height="200"> <img src="/images/12m_2.jpg" width="250"height="200">
-</p>
+![ARO1](/images/12m_3.jpg)
+![ARO2](/images/12m_2.jpg)
+
