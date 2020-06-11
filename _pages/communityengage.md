@@ -17,6 +17,10 @@ and technical fields. I was a camper when I was 16 and the
 experience motivated me to continue pursuing astronomy as a career. Now I am a counselor and hope to be that inspiration for the
 next generation of scientists and great thinkers!
 
+!(/images/astro1.jpg)
+!(/images/astro2.jpg)
+!(/images/astro5.jpg)
+
 "/images/astro1.jpg" width="250"height="200"> <img src="/images/astro2.jpg" width="250"height="200">
 
 <img src="/images/astro5.jpg" width="250"height="200"> 
