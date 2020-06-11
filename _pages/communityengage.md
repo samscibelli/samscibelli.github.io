@@ -17,8 +17,6 @@ and technical fields. I was a camper when I was 16 and the
 experience motivated me to continue pursuing astronomy as a career. Now I am a counselor and hope to be that inspiration for the
 next generation of scientists and great thinkers!
 
-![AstroCamp1](/images/astro1.jpg)
-![AstroCamp2](/images/astro2.jpg)
 ![AstroCamp2](/images/astro5.jpg)
 
 
@@ -31,7 +29,7 @@ The students also have the opportunity to ask the speaker and volunteers questio
 of an astronomer is all about!
 
 ![Cafe1](/images/cafe1.jpeg)
-![Cafe2](/images/cafe2.jpeg)
+
 
 
 
