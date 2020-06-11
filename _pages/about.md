@@ -8,6 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+Black Lives Matter. Black Lives Matter in STEM. Around the world academics are pausing to #strike4blacklives [#shutdownstem](https://www.shutdownstem.com/) and #shutdownacademia, in collaboration with [Particles for Justice](https://www.particlesforjustice.org/). A time "for white and non-Black People of Color (NBPOC) to not only educate themselves, but to define a detailed plan of action to carry forward."
+
+About Me
+======
+
 Hi there! I'm Samantha Scibelli, a graduate student and NSF Graduate Research Fellow in the Department of Astronomy and [Steward Observatory](https://www.as.arizona.edu/) at the University of Arizona. I am interested in the broader topics of star formation, astrochemistry and radio astronomy. Currently, I am focused on constraining the physical, kinematic, and chemical structure of low-mass prestellar cores to better understand their evolution. 
 
 Current Research Interests
