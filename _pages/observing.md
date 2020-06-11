@@ -13,6 +13,7 @@ Date: 10/7/19 - 10/15/19
 Observing at the IRAM 30m telescope in Pico Veleta, Spain!
 
 ![IRAM1](/images/IRAM_1.jpeg)
+
 ![IRAM2](/images/IRAM_2.jpg)
 
   
@@ -23,6 +24,7 @@ Date: 9/28/18
 Observing on SOFIA tonight with polarization instrument HAWC+! We are looking at massive cold gas clumps to study the orientation of the magnetic field to see if it traces the gas outflows, with the goal of learning how massive stars are formed! How cool - a 2.5 telescope on an airplane!
 
 ![SOFIA1](/images/SOFIA_1.jpeg)
+
 ![SOFIA2](/images/SOFIA_2.jpeg)
 
 
@@ -42,5 +44,6 @@ Date: 10/29/17
 The first of many nights observing with the 12m on Kitt Peak! We found some complex organic molecules (one of which is the cause of hangovers) in prestellar cores!
 
 ![ARO1](/images/12m_3.jpg)
+
 ![ARO2](/images/12m_2.jpg)
 
