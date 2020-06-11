@@ -12,10 +12,9 @@ Date: 10/7/19 - 10/15/19
 
 Observing at the IRAM 30m telescope in Pico Veleta, Spain!
 
-![IRAM1](/images/IRAM_1.jpeg)
-
 ![IRAM2](/images/IRAM_2.jpg)
 
+![IRAM1](/images/IRAM_1.jpeg)
   
 [**SOFIA Observations**](https://www.sofia.usra.edu/)
 
