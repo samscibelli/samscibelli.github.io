@@ -6,11 +6,11 @@ author_profile: true
 
 **IRAM 30m Observations**[https://www.iram-institute.org/EN/30-meter-telescope.php]
 
-<p>
-Date: 10/7/19 - 10/15/19
-</p>
 
-<p>Observing at the IRAM 30m telescope in Pico Veleta, Spain!</p>
+Date: 10/7/19 - 10/15/19
+
+
+Observing at the IRAM 30m telescope in Pico Veleta, Spain!
 
 <p>
 <img src="/images/IRAM_1.jpeg" width="200"height="150"> <img src="/images/IRAM_2.jpg" width="540"height="250"><br>
