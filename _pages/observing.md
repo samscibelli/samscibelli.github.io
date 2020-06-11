@@ -4,7 +4,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-<p style="text-decoration:underline;"><a href="https://www.iram-institute.org/EN/30-meter-telescope.php">IRAM 30m Observations</a></p>
+**IRAM 30m Observations**[https://www.iram-institute.org/EN/30-meter-telescope.php]
 
 <p>
 Date: 10/7/19 - 10/15/19
