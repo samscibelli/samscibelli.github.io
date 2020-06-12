@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Black Lives Matter. Black Lives Matter in STEM. Around the world academics are pausing to #strike4blacklives [#shutdownstem](https://www.shutdownstem.com/) and #shutdownacademia, in collaboration with [Particles for Justice](https://www.particlesforjustice.org/). A time "for white and non-Black People of Color (NBPOC) to not only educate themselves, but to define a detailed plan of action to carry forward."
+Black Lives Matter. Black Lives Matter in STEM. Around the world academics are pausing to #strike4blacklives [#shutdownstem](https://www.shutdownstem.com/) and #shutdownacademia, in collaboration with [Particles for Justice](https://www.particlesforjustice.org/). [Click here for ways to help](https://blacklivesmatters.carrd.co/)
 
 About Me
 ======
