@@ -207,7 +207,7 @@
     border-color:#5B6780 transparent;
     z-index: 1;
 
-    @include breakpoint($large) {
+    @include breakpoint($small) {
       display: none;
     }
   }
