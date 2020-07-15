@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Samantha Scibelli"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Samantha Scibelli"
 description              : &description "personal description"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ph.D. Student"
+  name             : "Samantha Scibelli"
   avatar           : "samantha1.jpg"
-  bio              : "NSF Fellow (2017)"
+  bio              : "PhD Student & NSF Fellow"
   location         : "University of Arizona"
   employer         :
   googlescholar    : 
