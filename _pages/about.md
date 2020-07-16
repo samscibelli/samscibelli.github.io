@@ -17,7 +17,7 @@ Hi there! I'm Samantha Scibelli, a graduate student and NSF Graduate Research Fe
 
 In my free time I enjoy cuddling with my cat, Tabatha, going for hikes in the Tucson Mountains, cooking new recipes and reading popular science books. Passionate about science writing myself, I am pursuing a Science Communications Certificate at the University of Arizona. [A short memoir](https://www.terrain.org/2020/science-stories/a-witch-to-the-stars/), describing my early childhood and how I got interested in astronomy, has been published online at [terrian.org](https://www.terrain.org/). I have also been featured in the [1MWIS campaign](http://www.1mwis.com/profiles/samantha-scibelli), which aims to collect profiles of 1 million STEM women to provide visible role models and inspiration the next generation of girls.
 
-[Finger Rock Trail](images/83D65CA1-7C1C-4501-9586-530ECAF833A5.jpeg)
+![Finger Rock Trail](images/83D65CA1-7C1C-4501-9586-530ECAF833A5.jpeg)
 
 Current Research Interests
 ======
