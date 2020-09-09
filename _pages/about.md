@@ -20,8 +20,6 @@ In my free time I enjoy cuddling with my cat, Tabatha, going for hikes in the Tu
 ![Finger Rock Trail](/images/83D65CA1-7C1C-4501-9586-530ECAF833A5.jpeg)
 
 # Current Research Interests
-
-======
 ***COMs in Prestellar Cores***
 
 Astrobiologists are interested in understanding the origins of organic chemistry, the basis for life on Earth, and believe it is very likely to have had its origin at the very early stages of solar system formation. A starless, or prestellar, core is a dense clump of gas and dust which acts as a primordial birthplace for a low-mass (solar-type) star. I use the [ARO](http://aro.as.arizona.edu/) 12M radio dish on Kitt Peak to search for Complex Organic Molecules (COMs) in prestellar cores located along the Taurus Molecular Cloud, a filamentary star forming region (shown below). By studying the chemistry within these cores we can better understand their physical properties and evolutionary timescales. [[Check out this astrobites article!]](https://astrobites.org/2020/03/16/coms-in-cores-complex-chemistry-in-dense-cores-in-the-taurus-star-forming-region/) & [[News Link]](https://news.arizona.edu/story/ingredients-life-appear-stellar-nurseries-long-stars-are-born)
