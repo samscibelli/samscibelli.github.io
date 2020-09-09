@@ -8,18 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Black Lives Matter. Around the world academics are pausing to #strike4blacklives [#shutdownstem](https://www.shutdownstem.com/) and #shutdownacademia, in collaboration with [Particles for Justice](https://www.particlesforjustice.org/). Click [here](https://blacklivesmatters.carrd.co/) for ways to help.
+Black Lives Matter. [#Scholarstrike](https://www.scholarstrike.com/) is taking place September 8th-9th, 2020. For video resources click [here](ggle.io/3PUM). Additionally, around the world academics have paused to #strike4blacklives [#shutdownstem](https://www.shutdownstem.com/) and #shutdownacademia, in collaboration with [Particles for Justice](https://www.particlesforjustice.org/). Click [here](https://blacklivesmatters.carrd.co/) for ways to help.
 
 About Me
 ======
 
-Hi there! I'm Samantha Scibelli, a graduate student and NSF Graduate Research Fellow in the Department of Astronomy and [Steward Observatory](https://www.as.arizona.edu/) at the University of Arizona. I am interested in the broader topics of star formation, astrochemistry and radio astronomy. Currently, I am focused on constraining the physical, kinematic, and chemical structure of low-mass prestellar cores to better understand their evolution. See Current Research Interests.
+Hi there! I'm Samantha Scibelli, a graduate student and NSF Graduate Research Fellow in the Department of Astronomy and [Steward Observatory](https://www.as.arizona.edu/) at the University of Arizona. I am interested in the broader topics of star formation, astrochemistry and radio astronomy. Currently, I am focused on constraining the physical, kinematic, and chemical structure of low-mass prestellar cores to better understand their evolution. See #Current Research Interests.
 
 In my free time I enjoy cuddling with my cat, Tabatha, going for hikes in the Tucson Mountains, cooking new recipes and reading popular science books. Passionate about science writing myself, I am pursuing a Science Communications Certificate at the University of Arizona. [A short memoir](https://www.terrain.org/2020/science-stories/a-witch-to-the-stars/), describing my early childhood and how I got interested in astronomy, has been published online at [terrian.org](https://www.terrain.org/). I have also been featured in the [1MWIS campaign](http://www.1mwis.com/profiles/samantha-scibelli), which aims to collect profiles of 1 million STEM women to provide visible role models and inspiration the next generation of girls.
 
 ![Finger Rock Trail](/images/83D65CA1-7C1C-4501-9586-530ECAF833A5.jpeg)
 
-Current Research Interests
+[Current Research Interests](#current_research)
 ======
 ***COMs in Prestellar Cores***
 
