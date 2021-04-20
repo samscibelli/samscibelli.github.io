@@ -8,7 +8,7 @@ All ADS Listings [here](https://ui.adsabs.harvard.edu/#search/filter_author_face
 
 * **Scibelli, S.**, Shirley, Y., Vasyunin, A. & Launhardt, R. (2021) &quot;Detection of Complex Organic Molecules in Young Starless Core L1521E&quot; [[ADS]](https://ui.adsabs.harvard.edu/abs/2021arXiv210407683S/abstract)
 
-* Ambrose, H., Shirley, Y. & **Scibelli, S.**. (2020) &quot;A survey of CH2DOH towards starless and pre-stellar cores in the Taurus molecular cloud&quot; MNRAS, 501, 1. [[ADS]](https://ui.adsabs.harvard.edu/abs/2021MNRAS.501..347A/abstract)
+* Ambrose, H., Shirley, Y. & **Scibelli, S.**. (2021) &quot;A survey of CH2DOH towards starless and pre-stellar cores in the Taurus molecular cloud&quot; MNRAS, 501, 1. [[ADS]](https://ui.adsabs.harvard.edu/abs/2021MNRAS.501..347A/abstract)
 
 * **Scibelli, S.** & Shirley, Y. (2020) &quot;Prevalence of Complex Organic Molecules in Starless and Prestellar Cores within the Taurus Molecular Cloud&quot; <i>ApJ</i>, 891, 1. [[ADS](https://ui.adsabs.harvard.edu/abs/2020arXiv200202469S/abstract),[arxiv](https://arxiv.org/abs/2002.02469)]
 
