@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Black Lives Matter. Around the world academics have paused for #strike4blacklives, [#shutdownstem](https://www.shutdownstem.com/) and #shutdownacademia, in collaboration with [Particles for Justice](https://www.particlesforjustice.org/). Click [here](https://blacklivesmatters.carrd.co/) for ways to help.
-
 About Me
 ======
 
