@@ -4,11 +4,22 @@ permalink: /communityengagement/
 author_profile: true
 ---
 
+
+Black Lives Matter. Around the world academics have paused for #strike4blacklives, [#shutdownstem](https://www.shutdownstem.com/) and #shutdownacademia, in collaboration with [Particles for Justice](https://www.particlesforjustice.org/). Click [here](https://blacklivesmatters.carrd.co/) for ways to help.
+
+[**Steward Observatory Diversity, Equity and Inclusion Initiative**](https://sites.google.com/view/sodei)
+
+Steward Observatory’s Diversity, Equity and Inclusion Initiative, or SO DEI, aims to create a more equitable department by implementing actionable changes through five task forces: admissions, department climate, international scholars, mentoring practices, and recruiting & retention. As a co-organizer, a few of my roles include creating and maintaining the program's website and advertising our work to the larger department community. I am also an active member in the admissions task force.
+
 [**Diversity Journal Club**](https://www.as.arizona.edu/diversity_coffee/)
 
 The Diversity Journal Club is a space created to engage with the Steward Observatory community at all levels on topics of equity,
 inclusion, and diversity. As an organizer, I listen to the needs of our community and help lead discussions which will enact
-meaningful changes to make Steward a more welcoming and inclusive community.
+meaningful changes to make Steward Observatory a more welcoming and inclusive community.
+
+[**Knowledge Village**](https://www.knowledgevillage.org)
+
+I was a speaker for Knowledge Village, an organization that brings experts and professionals into public school classrooms via video chat. I presented a virtual [talk](https://www.youtube.com/watch?v=gEomu4D-jiQ) about how I got interested in science and what I do now to multiple groups of middle school students. 
 
 [**Astronomy Camp**](https://www.astronomycamp.org/)
 
