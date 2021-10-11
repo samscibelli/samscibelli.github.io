@@ -19,7 +19,7 @@ meaningful changes to make Steward Observatory a more welcoming and inclusive co
 
 [**Knowledge Village**](https://www.knowledgevillage.org)
 
-I was a speaker for Knowledge Village, an organization that brings experts and professionals into public school classrooms via video chat. I presented a virtual [talk](https://www.youtube.com/watch?v=gEomu4D-jiQ) about how I got interested in science and what I do now to multiple groups of middle school students. 
+I was a speaker for Knowledge Village, an organization that brings experts and professionals into public school classrooms via video chat. I presented a virtual [talk](https://www.youtube.com/watch?v=gEomu4D-jiQ) about how I got interested in science and what I work on in graduate school to multiple groups of middle school students. 
 
 [**Astronomy Camp**](https://www.astronomycamp.org/)
 
