@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-All ADS Listings [here](https://ui.adsabs.harvard.edu/#search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%220%2FScibelli%2C%20S%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%220%2FScibelli%2C%20S%22)&q=%20%20author%3A%22Scibelli%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
+All ADS Listings [here](https://ui.adsabs.harvard.edu/search/q=%20%20author%3A%22Samantha%20Scibelli%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
 
 * **Scibelli, S.**, Shirley, Y., Vasyunin, A. & Launhardt, R. (2021) &quot;Detection of Complex Organic Molecules in Young Starless Core L1521E&quot; MNRAS, 504, 4. [[ADS](https://ui.adsabs.harvard.edu/abs/2021arXiv210407683S/abstract),[arxiv](https://arxiv.org/abs/2104.07683)]
 
