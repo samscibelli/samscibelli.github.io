@@ -1,6 +1,6 @@
 ---
 title: "Observing!"
-permalink: /observing/
+permalink: /teaching/
 author_profile: true
 ---
 
