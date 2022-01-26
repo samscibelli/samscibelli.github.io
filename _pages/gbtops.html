@@ -5,16 +5,112 @@ author_profile: false
 
 <h1 style="text-align:center;">GBT Q Band Survey of L1544</h1>
 
-<h2 style="text-align:center;">Scripts Written By: Andrew Burkhardt</h2>
+<h2 style="text-align:center">Scripts Written By: Andrew Burkhardt</h2>
 
-<h2 style="text-align:center;">Scripts Modified By: Samantha Scibelli </h2>
+<h2 style="text-align:center">Scripts Modified By: Samantha Scibelli </h2>
 
-<h2 style="text-align:center;">Last Update: January 25, 2022 </h2>
+<h2 style="text-align:center">Last Update: January 25, 2022 </h2>
 
-<h2 style="text-align:center;">Project: GBT22A_435 </h2>
+<h2 style="text-align:center">Project: GBT22A_435 </h2>
 
 <p style="text-align:center;">Summary of Autopointing Script</p>
 
+
+<p style="text-align:justify">
 These instructions are copied and modified from those written by Andrew M. Burkhardt for the GOTHAM project and can be found <a href="https://www.cv.nrao.edu/~bmcguire/gbtoperators/gbtops.html">here</a>.
-<br> 
-There are two scripts for each observing session. The first is a primary observing script, whose name always includes Autopointing_Observation_Script. This script observes the science target and runs pointing/focus automatically at a specified rate (e.g. 2 hrs). Once submitted, the scripts run AutoPeakFocus twice. The script will then pause and request observer/operator to check quality of pointing solution. If the pointing solution is not adequate, the observer/operator will need to abort script and run the second script associated with that session, whose name always includes Additional_Pointing_Script. Otherwise, the primary script can be un-paused and continue onto science observations. Times in which last pointing occurred are saved in text files as outlined below.
+</p>
+<hr>
+
+<p style="text-align:justify">
+
+There are two scripts for each observing session.  The first is a primary observing script, whose name always includes <span style="color:red">Autopointing_Observation_Script</span>.  This script observes the science target and runs pointing/focus automatically at a specified rate (e.g. 2 hrs).  Once submitted, the scripts run AutoPeakFocus twice.  The script will then pause and request observer/operator to check quality of pointing solution. If the pointing solution is not adequate, the observer/operator will need to abort script and run the second script associated with that session, whose name always includes <span style="color:red"> Additional_Pointing_Script</span>.  Otherwise, the primary script can be un-paused and continue onto science observations. Times in which last pointing occurred are saved in text files as outlined below.</br>
+
+</p>
+For these observations, the scripts and pointing time files are named by the session numbers they belong to.  Each script works for multiple session numbers.  For example: "01_15_Ku_Additional_Pointing_Script" is for Sessions 01 and 15, whereas "05_12_19_26_KFPA_Additional_Pointing_Script.py" is for Sessions 05, 12, 19, and 26.  <br>
+
+<ul>
+	
+	<li>01_Ka_Additional_Pointing_Script</li>
+	<li>01_Ka_Autopointing_Observation_Script</li></br>
+	
+	<li>02_Q_Additional_Pointing_Script</li>
+	<li>02_Q_Autopointing_Observation_Script</li></br>
+	
+	<li>03_Q_Additional_Pointing_Script</li>
+	<li>03_Q_Autopointing_Observation_Script</li></br>
+
+	<li>04_Q_Additional_Pointing_Script</li>
+	<li>04_Q_Autopointing_Observation_Script</li></br>
+
+Please use the script appropriate for the session number that has been scheduled for the project.
+
+</p>
+
+<h4 style="text-align:center">Workflow</h4>
+
+<ol>
+
+	<li> Once the appropriate receiver is in place (or if it is already in place from the previous session), please close and re-open ASTRID.</li><br />
+
+	<li> Open project <strong>AGBT21B_210</strong> as scheduled in ASTRID.</li><br />
+	
+	<li> In DataDisplay tab, click the Pointing Tab. Then, open the Tools dropdown menu, select Options, and click the Heuristics tab. Make sure this is set to <strong>Relaxed</strong>. </li><br />
+	
+	<li>Back in the DataDisplay Page, click the Focus tab and repeat everything in the previous step that was done in the Pointing Tab.</li><br />
+	
+	<li>In the Observation Management tab, submit the appropriate Autopointing Observation Script.</li><br />
+	
+	<li> If pointing has not been performed in the past 2hrs, the script will slew to the pointing source, currently 0530+1331, and perform one or more AutoPeakFocus scans. After the second, the script will pause and request user input:<br /><br />
+	
+		<ul>
+		
+			<li>If the pointing/focus is adequate (see images below), do not abort the script, let it continue, and proceed to Step 7.  Please use your best judgement for the quality of the pointing.  The examples below represent what we consider an 'excellent' pointing and a 'poor' pointing.  Certainly many good solutions will fall between these, and the quality will vary given weather and time of day.</li><br />
+			
+	 		<li>If the point/focus is not adequate, abort the script and run the appropriate Additional Pointing Script until pointing/focus improves.</li><br />
+	 		
+			<li>Once pointing/focus has improved, resubmit the appropriate Autopointing Observation script which should automatically slew to our science target (TMC-1).</li><br />
+		
+		</ul>
+		
+	</li>
+		
+	<li> When allotted time is completed, abort the script preferably at the end of an OffOn subscan.  You should be able to determine when to stop with about 5 minutes left in allotted time.	</li> <br />
+	
+	
+	
+</ol>
+
+<h4 style="text-align:center">Troubleshooting</h4>
+
+<ol>
+
+	<li>If the script crashes, attempt to restart the script.</li><br />
+	
+	<li>If aborting and restarting the script does not work, or there are any other issues, please contact:<br /><br />
+	
+		<ol>
+		<li>Samantha Scibelli</li><br />
+		</ol>
+	 All persons contact information are in the GBT system. If it is after 9 p.m., you may need to call twice to break through any Do Not Disturb Functionality.  Regardless, please document errors, irregularities, or other issues and add as notes in the observing report.<br /><br />
+
+</ol>
+
+
+<!-- 
+<h1 style="text-align:center">Example of Good Pointing and Focus</h1>
+
+<img src='https://www.cv.nrao.edu/~bmcguire/gbtoperators/Good/good_pointing.png' width='100%' class='center' />
+<img src='https://www.cv.nrao.edu/~bmcguire/gbtoperators/Good/good_focus.png' width='100%' class='center' />
+
+<h1 style="text-align:center">Examples of Bad Pointing and Focus</h1>
+
+<img src='https://www.cv.nrao.edu/~bmcguire/gbtoperators/Bad/bad_pointing.png' width='100%' class='center' />
+<img src='https://www.cv.nrao.edu/~bmcguire/gbtoperators/Bad/bad_focus1.png' width='100%' class='center' />
+<img src='https://www.cv.nrao.edu/~bmcguire/gbtoperators/Bad/bad_focus2.png' width='100%' class='center' />
+<img src='https://www.cv.nrao.edu/~bmcguire/gbtoperators/Bad/bad_focus3.png' width='100%' class='center' />
+<img src='https://www.cv.nrao.edu/~bmcguire/gbtoperators/Bad/bad_focus4.png' width='100%' class='center' />
+<img src='https://www.cv.nrao.edu/~bmcguire/gbtoperators/Bad/bad_focus5.png' width='100%' class='center' />
+<img src='https://www.cv.nrao.edu/~bmcguire/gbtoperators/Bad/bad_focus6.png' width='100%' class='center' />
+-->
+
+</div>
