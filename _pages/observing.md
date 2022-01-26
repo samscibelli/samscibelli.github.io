@@ -6,7 +6,7 @@ author_profile: true
 
 [**GBT Observations**](https://greenbankobservatory.org/science/gbt-surveys/)
 
-[GBT Operator Instructions](/posts)
+[GBT Operator Instructions](/posts/)
 
 [**IRAM 30m Observations**](https://www.iram-institute.org/EN/30-meter-telescope.php)
 
