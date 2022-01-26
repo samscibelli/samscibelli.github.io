@@ -1,8 +1,9 @@
 ---
-title: "GBT Q Band Survey of L1544"
 permalink: /posts/
 author_profile: false
 ---
+
+<h1 style="text-align:center;">GBT Q Band Survey of L1544</h1>
 
 <h1 style="text-align:center;">Scripts Written By: Andrew Burkhardt</h1>
 <h1 style="text-align:center;">Scripts Modified By: Samantha Scibelli </h1>
@@ -14,5 +15,6 @@ author_profile: false
 <p style="text-align:center;">Summary of Autopointing Script</p>
 
 These instructions are copied and modified from those written by Andrew M. Burkhardt for the GOTHAM project and can be found <a href="https://www.cv.nrao.edu/~bmcguire/gbtoperators/gbtops.html">here</a>.
+<br> 
 
 There are two scripts for each observing session. The first is a primary observing script, whose name always includes Autopointing_Observation_Script. This script observes the science target and runs pointing/focus automatically at a specified rate (e.g. 2 hrs). Once submitted, the scripts run AutoPeakFocus twice. The script will then pause and request observer/operator to check quality of pointing solution. If the pointing solution is not adequate, the observer/operator will need to abort script and run the second script associated with that session, whose name always includes Additional_Pointing_Script. Otherwise, the primary script can be un-paused and continue onto science observations. Times in which last pointing occurred are saved in text files as outlined below.
