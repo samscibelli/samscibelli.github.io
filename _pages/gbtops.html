@@ -12,16 +12,15 @@ author_profile: false
 
 <p style="text-align:justify">
 
-<h3 style="text-align:center">Summary of Autopointing Script</h3>
+<h3 style="text-align:center"><span style="color:blue">Summary of Autopointing Script</span></h3>
 
 <p style="text-align:justify">
 These instructions are copied and modified from those written by Andrew M. Burkhardt for the GOTHAM project and can be found <a href="https://www.cv.nrao.edu/~bmcguire/gbtoperators/gbtops.html">here</a>.
 </p>
-<hr>
 
 <p style="text-align:justify">
 
-There are two scripts for each observing session.  The first is a primary observing script, whose name always includes <span style="color:red">Autopointing_Observation_Script</span>.  This script observes the science target and runs pointing/focus automatically at a specified rate (e.g. 2 hrs).  Once submitted, the scripts run AutoPeakFocus twice.  The script will then pause and request observer/operator to check quality of pointing solution. If the pointing solution is not adequate, the observer/operator will need to abort script and run the second script associated with that session, whose name always includes <span style="color:red"> Additional_Pointing_Script</span>.  Otherwise, the primary script can be un-paused and continue onto science observations. Times in which last pointing occurred are saved in text files as outlined below.</br>
+There are two scripts for each observing session.  The first is a primary observing script, whose name always includes <span style="color:blue">Autopointing_Observation_Script</span>.  This script observes the science target and runs pointing/focus automatically at a specified rate (e.g. 2 hrs).  Once submitted, the scripts run AutoPeakFocus twice.  The script will then pause and request observer/operator to check quality of pointing solution. If the pointing solution is not adequate, the observer/operator will need to abort script and run the second script associated with that session, whose name always includes <span style="color:blue"> Additional_Pointing_Script</span>.  Otherwise, the primary script can be un-paused and continue onto science observations. Times in which last pointing occurred are saved in text files as outlined below.</br>
 
 </p>
 For these observations, the scripts and pointing time files are named by the session numbers they belong to.  Each script belongs to a certain session number.  For example: "02_Q_Additional_Pointing_Script" is for Sessions 02.  <br>
@@ -44,7 +43,9 @@ Please use the script appropriate for the session number that has been scheduled
 
 </p>
 
-<h3 style="text-align:center">Workflow</h3>
+<hr>
+
+<h3 style="text-align:center"><span style="color:blue">Workflow</span></h3>
 
 <ol>
 
@@ -78,7 +79,9 @@ Please use the script appropriate for the session number that has been scheduled
 	
 </ol>
 
-<h3 style="text-align:center">Troubleshooting</h3>
+<hr>
+
+<h3 style="text-align:center"><span style="color:blue">Troubleshooting</span></h3>
 
 <ol>
 
@@ -94,6 +97,7 @@ Please use the script appropriate for the session number that has been scheduled
 
 </ol>
 
+<hr>
 
 <!-- 
 <h1 style="text-align:center">Example of Good Pointing and Focus</h1>
