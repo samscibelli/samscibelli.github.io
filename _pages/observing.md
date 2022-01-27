@@ -8,6 +8,10 @@ author_profile: true
 
 [GBT Operator Instructions](https://samscibelli.github.io/posts/)
 
+Remote GBT Observing during 2020 and 2021 of the B10 region in the Taurus Molecular Cloud. We are mapping in C18O and 13CO at high (6.8'') resolution with the 3mm ARGUS instrument!
+
+![GBT1](/images/GBT_1.jpg)
+
 [**IRAM 30m Observations**](https://www.iram-institute.org/EN/30-meter-telescope.php)
 
 
