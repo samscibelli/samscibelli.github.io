@@ -6,7 +6,13 @@ author_profile: true
 
 [**GBT Observations**](https://greenbankobservatory.org/science/gbt-surveys/)
 
+*Project GLUCOSE*
+
+[Check out our survey page!](https://greenbankobservatory.org/science/gbt-surveys/glucose/)
+
 [GBT Operator Instructions](https://samscibelli.github.io/posts/)
+
+*GBT ARGUS*
 
 Remote GBT Observing during 2020 and 2021 of the B10 region in the Taurus Molecular Cloud. We are mapping in C18O and 13CO at high (6.8'') resolution with the 3mm ARGUS instrument!
 
