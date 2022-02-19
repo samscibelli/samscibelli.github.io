@@ -6,7 +6,7 @@ author_profile: false
 <h1 style="text-align:center">Operator Instructions for The GBT L1544 Unbiased Complex Organics SurvEy (GLUCOSE)</h1>
 
 <h2 style="text-align:center">Scripts Written By: Andrew Burkhardt & Modified By: Samantha Scibelli</h2>
-<h3 style="text-align:center">Last Update: February 17, 2022</h3>
+<h3 style="text-align:center">Last Update: February 19, 2022</h3>
 
 <h3 style="text-align:center">Project: AGBT22A-899</h3>
 
@@ -20,7 +20,7 @@ These instructions are copied and modified from those written by Andrew M. Burkh
 
 <p style="text-align:justify">
 
-There are two scripts for each observing session.  The first is a primary observing script, whose name always includes <span style="color:red">Autopointing_Calibration_Observation_Script</span>.  This script observes the science target, runs pointing/focus automatically at a specified rate (e.g. 2 hrs) and does a calibration scan at a specified rate (12 hours).  Once submitted, the scripts run AutoPeakFocus twice.  The script will then pause and request observer/operator to check quality of pointing solution. If the pointing solution is not adequate, the observer/operator will need to abort script and run the second script associated with that session, whose name always includes <span style="color:red"> Additional_Pointing_Script</span>.  Otherwise, the primary script can be un-paused and continue onto calibration scans and then onto the science observations. Times in which last pointing and calibration has occurred are saved in text files as outlined below.</br>
+There are two scripts for each observing session.  The first is a primary observing script, whose name always includes <span style="color:red">Autopointing_Calibration_Observation_Script</span>.  This script observes the science target, runs pointing/focus automatically at a specified rate (e.g. 2 hrs) and does calibration scans at a specified rate (12 hours).  Once submitted, the scripts run AutoPeakFocus twice.  The script will then pause and request observer/operator to check quality of pointing solution. If the pointing solution is not adequate, the observer/operator will need to abort script and run the second script associated with that session, whose name always includes <span style="color:red"> Additional_Pointing_Script</span>.  Otherwise, the primary script can be un-paused and continue onto calibration scans and then onto the science observations. Times in which last pointing and calibration has occurred are saved in text files as outlined below.</br>
 
 </p>
 For these observations, the scripts and pointing time files are named by the session numbers they belong to.  Each script belongs to a certain session number.  For example: "02_Q_Additional_Pointing_Script" is for Sessions 02.  <br>
@@ -68,6 +68,8 @@ Please use the script appropriate for the session number that has been scheduled
 	 		<li>If the point/focus is not adequate, abort the script and run the appropriate Additional Pointing Script until pointing/focus improves.</li><br />
 	 		
 			<li>Once pointing/focus has improved, resubmit the appropriate Autopointing Observation script which should automatically take a calibration scan (also for 0530+1331) and then slew to our science target (L1544).</li><br />
+			
+			<li>Sometimes the script, when it loops over the science scans for L1544, will break unexpectedly. If this happens, just resubmit the Autopointing Script.</li><br />
 		
 		</ul>
 		
