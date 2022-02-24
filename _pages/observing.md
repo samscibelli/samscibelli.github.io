@@ -6,13 +6,12 @@ author_profile: true
 
 [**GBT Observations**](https://greenbankobservatory.org/science/gbt-surveys/)
 
-*Project GLUCOSE:* The GBT L1544 Unbiased Complex Organics SurvEy! This spectral line survey will cover Q-band, from ~38-48 GHz. 
+*Project GLUCOSE:* The GBT L1544 Unbiased Complex Organics SurvEy! This spectral line survey will cover Q-band, from ~38-48 GHz. [Check out our survey page!](https://greenbankobservatory.org/science/gbt-surveys/glucose/)
+
 
 ![GBT1](/images/cats.PNG)
 
-Co-I Danna Qasim and I are observing remotely during one of the first GLUCOSE sessions, in February 2022. Our cats join in to look at the data! :) 
-
-[Check out our survey page!](https://greenbankobservatory.org/science/gbt-surveys/glucose/)
+Shown above: Co-I Danna Qasim and I observing remotely during one of the first GLUCOSE sessions, in February 2022. Our cats join in to look at the data! :) 
 
 [GBT Operator Instructions](https://samscibelli.github.io/posts/)
 
