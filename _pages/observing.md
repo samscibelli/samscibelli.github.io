@@ -33,6 +33,13 @@ Observing at the IRAM 30m telescope in Pico Veleta, Spain!
   
 [**SOFIA Observations**](https://www.sofia.usra.edu/)
 
+Dates: 7/8/22 & 7/9/22
+
+I was able to fly twice on SOFIA to observe my own Cycle 9 project! We used the HAWC+ instrument to get far-IR data and polarization information for prestellar core L63 - a special core that shows strong infall signatures! During the last flight I was able to sit in the cockpit for takeoff and landing! Breathtaking!
+
+![SOFIA3](/images/363BD97B-1717-42C4-B11E-B0D602C10E44.jpeg)
+
+
 Date: 9/28/18 
 
 Observing on SOFIA tonight with polarization instrument HAWC+! We are looking at massive cold gas clumps to study the orientation of the magnetic field to see if it traces the gas outflows, with the goal of learning how massive stars are formed! How cool - a 2.5 telescope on an airplane!
