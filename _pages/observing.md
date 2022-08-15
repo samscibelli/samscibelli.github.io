@@ -37,8 +37,9 @@ Dates: 7/8/22 & 7/9/22
 
 I was able to fly twice on SOFIA to observe my own Cycle 9 project! We used the HAWC+ instrument to get far-IR data and polarization information for prestellar core L63 - a special core that shows strong infall signatures! During the last flight I was able to sit in the cockpit for takeoff and landing! Breathtaking!
 
-![SOFIA3](/images/363BD97B-1717-42C4-B11E-B0D602C10E44.jpeg)
+![SOFIA4](/images/FD76A8A2-BC15-4657-A4C5-98C07577129C.jpeg)
 
+![SOFIA3](/images/363BD97B-1717-42C4-B11E-B0D602C10E44.jpeg)
 
 Date: 9/28/18 
 
