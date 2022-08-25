@@ -21,9 +21,8 @@ meaningful changes to make Steward Observatory a more welcoming and inclusive co
 
 Space Drafts (or, Astronomy on Tap TUS) is an astronomy focused public lecture series held every month at The Borderlands Brewing Company in Tucson, Arizona. I gave my talk, "Space Brews: Probing the Origins of Complex Molecules with Radio Telescopes" in April of 2022! Watch it at the link below!
 
-[![IMAGE ALT TEXT](https://youtu.be/V1sahkijLZA)](https://www.youtube.com/watch?v=V1sahkijLZA "Space Drafts #75: The Darkest Brews in Space")
+[![SpaceDraftImage](/images/spacedraft.png)](https://www.youtube.com/watch?v=V1sahkijLZA "Space Drafts #75: The Darkest Brews in Space")
 
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [**Knowledge Village**](https://www.knowledgevillage.org)
 
