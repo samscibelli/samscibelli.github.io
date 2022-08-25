@@ -17,6 +17,12 @@ The Diversity Journal Club is a space created to engage with the Steward Observa
 inclusion, and diversity. As an organizer, I listen to the needs of our community and help lead discussions which will enact
 meaningful changes to make Steward Observatory a more welcoming and inclusive community.
 
+[**Space Drafts**](https://astronomyontap.org/locations/tucson-az/)
+
+Space Drafts (or, Astronomy on Tap TUS) is an astronomy focused public lecture series held every month at The Borderlands Brewing Company in Tucson, Arizona. I gave my talk, "Space Brews: Probing the Origins of Complex Molecules with Radio Telescopes" in April of 2022! Watch it here!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V1sahkijLZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [**Knowledge Village**](https://www.knowledgevillage.org)
 
 I was a speaker for Knowledge Village, an organization that brings experts and professionals into public school classrooms via video chat. I presented a virtual [talk](https://www.youtube.com/watch?v=gEomu4D-jiQ) about how I got interested in science and what I work on in graduate school to multiple groups of middle school students. 
