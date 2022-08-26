@@ -35,6 +35,8 @@ and technical fields. I was a camper when I was 16 and the
 experience motivated me to continue pursuing astronomy as a career. Now I am a counselor and hope to be that inspiration for the
 next generation of scientists and great thinkers!
 
+![AstroCamp11](/images/astrocamp11.jpg)
+![AstroCamp10](/images/astrocamp10.jpg)
 ![AstroCamp2](/images/astro5.jpg)
 
 
