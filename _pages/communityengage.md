@@ -36,7 +36,9 @@ experience motivated me to continue pursuing astronomy as a career. Now I am a c
 next generation of scientists and great thinkers!
 
 ![AstroCamp11](/images/astrocamp11.jpg)
+
 ![AstroCamp10](/images/astrocamp10.jpg)
+
 ![AstroCamp2](/images/astro5.jpg)
 
 
