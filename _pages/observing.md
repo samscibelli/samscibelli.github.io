@@ -12,11 +12,11 @@ author_profile: true
 
 Date: 9/18/22 - 9/23/19
 
-I was able to visit Green Bank, West Virginia for a conference and toured the 100m telescope! I usually move this 17 million ound telescope from my computer 3,000 miles away!! Thrilled I was able to finally see it in person!
+I was able to visit Green Bank, West Virginia for a conference and toured the 100m telescope! I usually move this 17 million pound telescope from my computer 3,000 miles away! Thrilled I was able to finally see it in person!
 
-![GBT2](/images/sam_GBT_sign.jpeg)
+![GBT2](/images/sam_GBT_sign.jpg)
 
-![GBT2](/images/sam_GBT_dishview.jpeg)
+![GBT2](/images/sam_GBT_dishview.jpg)
 
 February 2022 
 
@@ -24,11 +24,6 @@ Co-I Danna Qasim and I observing remotely during one of the first GLUCOSE sessio
 
 ![GBT1](/images/cats.PNG)
 
-
-
-*GBT ARGUS*
-
-Remote GBT Observing during 2020 and 2021 of the B10 region in the Taurus Molecular Cloud. We are mapping in C18O and 13CO at high (6.8'') resolution with the 3mm ARGUS instrument!
 
 [**IRAM 30m Observations**](https://www.iram-institute.org/EN/30-meter-telescope.php)
 
