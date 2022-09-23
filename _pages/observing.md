@@ -12,7 +12,7 @@ author_profile: true
 
 Date: 9/18/22 - 9/23/19
 
-I was able to visit Green Bank, West Virginia for a conference and toured the 100m telescope! I usually move this 17 million pound telescope from my computer 3,000 miles away! Thrilled I was able to finally see it in person!
+I was able to visit Green Bank, West Virginia for a conference and toured the 100m telescope! I usually move this 17-million-pound telescope from my computer 3,000 miles away! Thrilled I was able to finally see it in person!
 
 ![GBT2](/images/sam_GBT_sign.jpg)
 
