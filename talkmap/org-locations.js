@@ -48,5 +48,15 @@ var addressPoints = [
     "Athens, Greece",
     37.9838,
     23.7275
+  ],
+  [
+    "Berlin, Germany",
+    52.5200,
+    13.4050
+  ],
+  [
+    "Green Bank, West Virginia",
+    38.4195,
+    79.8318
   ]
 ];
