@@ -57,6 +57,6 @@ var addressPoints = [
   [
     "Green Bank, West Virginia",
     38.4195,
-    79.8318
+    -79.8318
   ]
 ];
