@@ -20,7 +20,7 @@ These instructions are copied and modified from those written by Andrew M. Burkh
 
 <p style="text-align:justify">
 
-There are two scripts for each observing session.  The first is a primary observing script, whose name always includes <span style="color:red">Autopointing_Calibration_Observation_Script</span>.  This script observes the science target, runs pointing/focus automatically at a specified rate (e.g. 2 hrs) and does calibration scans at a specified rate (12 hours).  Once submitted, the scripts run AutoPeakFocus twice.  The script will then pause and request observer/operator to check quality of pointing solution. If the pointing solution is not adequate, the observer/operator will need to abort script and run the second script associated with that session, whose name always includes <span style="color:red"> Additional_Pointing_Script</span>.  Otherwise, the primary script can be un-paused and continue onto calibration scans and then onto the science observations. Times in which last pointing and calibration has occurred are saved in text files as outlined below.</br>
+There are two scripts for each observing session.  The first is a primary observing script, whose name always includes <span style="color:red">Autopointing_Calibration_Observation_Script</span>.  This script observes the science target, runs pointing/focus automatically at a specified rate (e.g. 2 hrs) and does calibration scans at a specified rate (12 hours).  Once submitted, the scripts run AutoPeakFocus twice.  The script will then pause and request observer/operator to check quality of pointing solution. If the pointing solution is not adequate, the observer/operator will need to abort script and run the second script associated with that session, whose name always includes <span style="color:red"> Additional_Pointing_Script</span>.  Otherwise, the primary script can be un-paused and continue onto calibration scans and then onto a second pointing before moving onto science observations. Times in which last pointing and calibration has occurred are saved in text files as outlined below.</br>
 
 </p>
 For these observations, the scripts and pointing time files are named by the session numbers they belong to.  Each script belongs to a certain session number.  For example: "02_Q_Additional_Pointing_Script" is for Sessions 02.  <br>
@@ -55,23 +55,31 @@ Please use the script appropriate for the session number that has been scheduled
 	
 	<li> In DataDisplay tab, click the Pointing Tab. Then, open the Tools dropdown menu, select Options, and click the Heuristics tab. Make sure this is set to <strong>Relaxed</strong>. </li><br />
 	
-	<li>Back in the DataDisplay Page, click the Focus tab and repeat everything in the previous step that was done in the Pointing Tab.</li><br />
+	<li> Back in the DataDisplay Page, click the Focus tab and repeat everything in the previous step that was done in the Pointing Tab.</li><br />
 	
 	<li>In the Observation Management tab, submit the appropriate Autopointing Calibration Observation Script.</li><br />
 	
-	<li> If pointing has not been performed in the past 1(2)hr(s), the script will slew to the pointing source, currently 0319+4130, and perform one or more AutoPeakFocus scans. After the second, the script will pause and request user input:<br /><br />
+	<li> The script will check if calibrations have been done in the past 12 hours. If no calibrations have been done, the script configures for the calibration setup and if they have been done it configures to the science setup. In either case, we start with pointing and focus scans. <br /><br />
+		
+	<li> Pointing and focusing will be done automatically every 2 hours and requires approval from the user. The script will slew to the pointing source, currently 0319+4130, and perform one or more AutoPeakFocus scans. After the second, the script will pause and request user input:<br /><br />
 	
 		<ul>
 		
-			<li>If the pointing/focus is adequate (see images below), do not abort the script, let it continue, and proceed to Step 7.  Please use your best judgement for the quality of the pointing.  The examples below represent what we consider an 'excellent' pointing and a 'poor' pointing.  Certainly many good solutions will fall between these, and the quality will vary given weather and time of day.</li><br />
+			<li>If the pointing/focus is adequate (see images below), do not abort the script, let it continue by clicking `yes' in the pop-up window.  Please use your best judgement for the quality of the pointing.  The examples below represent what we consider an 'excellent' pointing and a 'poor' pointing.  Certainly many good solutions will fall between these, and the quality will vary given weather and time of day.</li><br />
 			
 	 		<li>If the point/focus is not adequate, abort the script and run the appropriate Additional Pointing Script until pointing/focus improves.</li><br />
 	 		
-			<li>Once pointing/focus has improved, resubmit the appropriate Autopointing Observation script which should automatically take a calibration scan (for 0319+4130 and Uranus) and then slew to our science target (L1544).</li><br />
+			<li>Once pointing/focus has improved, resubmit the appropriate Autopointing Observation script which should automatically move onto the next step </li><br />
 			
 		</ul>
 		
 	</li>
+	
+	<li> Next, during calibration the script will automatically slew to and run `OffOn' two times for 0319+4130, Uranus and lastly L1544. 
+		
+	<li> After the calibration is done, the script will point and focus again on 0319+4130. Follow instructions in step 6) above to manually approve or abort script depending on pointing success. 
+		
+	<li> The script will then slew and continue to run `OffOn' scans for our science target (L1544) until it is time for the next pointing/focus.
 		
 	<li> When allotted time is completed, abort the script preferably at the end of an OffOn subscan.  You should be able to determine when to stop with about 5 minutes left in allotted time.	</li> <br />
 	
