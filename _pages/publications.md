@@ -6,7 +6,7 @@ author_profile: true
 
 All ADS Listings [here](https://ui.adsabs.harvard.edu/search/filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&p_=0&q=%20%20author%3A%22Samantha%20Scibelli%22&sort=date%20desc%2C%20bibcode%20desc)
 
-* **Scibelli, S.**, Shirley, Y., Schmiedeke, A., Svoboda, B., Singh, A., Lilly, J. & Caselli. P. (2023)  &quot;3D Radiative Transfer Modelling and Virial Analysis of Starless Cores in the B10 Region of the Taurus Molecular Cloud&quot; Accepted for MNRAS.[arxiv](https://arxiv.org/abs/2303.09574)]
+* **Scibelli, S.**, Shirley, Y., Schmiedeke, A., Svoboda, B., Singh, A., Lilly, J. & Caselli. P. (2023)  &quot;3D Radiative Transfer Modelling and Virial Analysis of Starless Cores in the B10 Region of the Taurus Molecular Cloud&quot; Accepted for MNRAS.[[arxiv](https://arxiv.org/abs/2303.09574)]
 
 * **Scibelli, S.**, Shirley, Y., Vasyunin, A. & Launhardt, R. (2021) &quot;Detection of Complex Organic Molecules in Young Starless Core L1521E&quot; MNRAS, 504, 4. [[ADS](https://ui.adsabs.harvard.edu/abs/2021arXiv210407683S/abstract),[arxiv](https://arxiv.org/abs/2104.07683)]
 
