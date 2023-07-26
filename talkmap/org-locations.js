@@ -63,5 +63,10 @@ var addressPoints = [
     "Seattle, Washington",
     47.6062,
     -122.3321
+  ],
+  [
+    "Traverse City, Michigan",
+    44.7631,
+    -85.6206
   ]
 ];
