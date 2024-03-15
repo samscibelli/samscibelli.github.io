@@ -61,9 +61,12 @@ Additionally, the summer before I started my undergraduate program, I interned a
 
 Relevant Links
 ======
-***Astrochemistry***
 
-[Textbooks](https://www.astrochymist.org/astrochymist_texts.html)
+[Astrochemistry Textbooks](https://www.astrochymist.org/astrochymist_texts.html)
 
 [Splatalogue](https://splatalogue.online/#/home)
+
+[Simbad](http://simbad.cds.unistra.fr/simbad/)
+
+[Js9 (online Ds9)](https://js9.si.edu)
 
