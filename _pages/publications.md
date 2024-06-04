@@ -6,7 +6,12 @@ author_profile: true
 
 All ADS Listings [here](https://ui.adsabs.harvard.edu/search/filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&p_=0&q=%20%20author%3A%22Samantha%20Scibelli%22&sort=date%20desc%2C%20bibcode%20desc)
 
+Selected Publications: 
+
 * **Scibelli, S.**, Shirley, Y., Schmiedeke, A., Svoboda, B., Singh, A., Lilly, J. & Caselli. P. (2023)  &quot;3D Radiative Transfer Modelling and Virial Analysis of Starless Cores in the B10 Region of the Taurus Molecular Cloud&quot; MNRAS, 521, 3. [[ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv230309574S/abstract),[arxiv](https://arxiv.org/abs/2303.09574)]
+
+* Sahai, R., Huang, P-S., **Scibelli, S.**, Morris, M. R., Hinkle, K., & Lee, C-F. (2022) &quot;The Rapidly Evolving Asymptotic Giant Branch Star, V Hya: ALMA Finds a Multiring Circus with High-velocity Outflows&quot; ApJ, 929, 1. [[ADS](https://ui.adsabs.harvard.edu/abs/2022ApJ...929...59S/abstract), [arxiv](https://arxiv.org/abs/2202.09335)]
+
 
 * **Scibelli, S.**, Shirley, Y., Vasyunin, A. & Launhardt, R. (2021) &quot;Detection of Complex Organic Molecules in Young Starless Core L1521E&quot; MNRAS, 504, 4. [[ADS](https://ui.adsabs.harvard.edu/abs/2021arXiv210407683S/abstract),[arxiv](https://arxiv.org/abs/2104.07683)]
 
