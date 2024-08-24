@@ -73,5 +73,26 @@ var addressPoints = [
     "New Orleans, Louisiana",
     29.9511,
     -90.0715
+  ],
+  [
+    "Padova, Italy",
+    45.4105, 
+    11.8782
+  ],
+  [
+    "Busan, South Korea",
+    35.1731, 
+    129.0714
+  ],
+  [
+    "Gainesville, Florida",
+    29.6520, 
+    -82.3250
+  ],
+  [
+    "Melbourne, Florida",
+    28.0836, 
+    -80.6081
   ]
+
 ];
