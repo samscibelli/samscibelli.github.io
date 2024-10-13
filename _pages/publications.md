@@ -8,8 +8,8 @@ All ADS Listings [here](https://ui.adsabs.harvard.edu/search/filter_database_fq_
 
 Featured Publications: 
 
-* **Scibelli, S.**, Shirley, Y., Megías, A., & Jiménez-Serra, I, (2024) “Survey of Complex Organic Molecules in Starless and Prestellar Cores in the Perseus Molecular Cloud” accepted for publication in MNRAS. 
-[[ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240811613S/abstract), [arxiv](https://arxiv.org/abs/2408.11613)]
+* **Scibelli, S.**, Shirley, Y., Megías, A., & Jiménez-Serra, I, (2024) “Survey of Complex Organic Molecules in Starless and Prestellar Cores in the Perseus Molecular Cloud”;  2024, MNRAS, 533, 4. 
+[[ADS](https://ui.adsabs.harvard.edu/abs/2024MNRAS.533.4104S/abstract), [arxiv](https://arxiv.org/abs/2408.11613)]
 
 * **Scibelli, S.**, Shirley, Y., Schmiedeke, A., Svoboda, B., Singh, A., Lilly, J. & Caselli. P. (2023)  &quot;3D Radiative Transfer Modelling and Virial Analysis of Starless Cores in the B10 Region of the Taurus Molecular Cloud&quot; MNRAS, 521, 3. [[ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv230309574S/abstract),[arxiv](https://arxiv.org/abs/2303.09574)]
 
@@ -22,11 +22,11 @@ Featured Publications:
 
 * **Scibelli, S.** & Shirley, Y. (2020) &quot;Prevalence of Complex Organic Molecules in Starless and Prestellar Cores within the Taurus Molecular Cloud&quot; <i>ApJ</i>, 891, 1. [[ADS](https://ui.adsabs.harvard.edu/abs/2020arXiv200202469S/abstract),[arxiv](https://arxiv.org/abs/2002.02469)]
 
-* **Scibelli, S.**, Rosalba, P., & Keeton, C. (2019) &quot;Biases in inferring dark matter profiles from dynamical and lensing measurements&quot; MNRAS, 769. [[ADS](https://ui.adsabs.harvard.edu/#abs/2018arXiv181106556S/abstract),[arxiv](https://arxiv.org/abs/1811.06556)]
+* **Scibelli, S.**, Rosalba, P., & Keeton, C. (2019) &quot;Biases in inferring dark matter profiles from dynamical and lensing measurements&quot; MNRAS, 485, 5880. [[ADS](https://ui.adsabs.harvard.edu/#abs/2018arXiv181106556S/abstract),[arxiv](https://arxiv.org/abs/1811.06556)]
 
 * **Scibelli, S.**, Sahai, R., & Morris, M. R. (2019). &quot;High-Velocity Bullets from V Hydrae, an AGB Star in Transition: Ejection History and Spatio-Kinematic Modeling&quot; <i>ApJ</i>, 870, 117 [[ADS](https://ui.adsabs.harvard.edu/#abs/2018arXiv181109277S/abstract),[arxiv](https://arxiv.org/abs/1811.09277)]
 
 * Sahai, R., **Scibelli, S.**, & Morris, M. R. (2016). &quot;High-speed Bullet Ejections during the AGB-to-Planetary Nebular Transition: HST Observations of the Carbon Star, V Hydrae&quot; <i>ApJ</i>, 827, 92 [[ADS](https://ui.adsabs.harvard.edu/#abs/2016ApJ...827...92S/abstract),[pdf](http://samscibelli.github.io/files/Vhya_apj_827_2_92.pdf)]
 
-* **Scibelli, S.** (2014). &quot;Census of Blue Stars in SDSS DR8&quot; <i>APJS</i>. 215, 24. [[ADS](https://ui.adsabs.harvard.edu/#abs/2014ApJS..215...24S/abstract),[pdf](http://samscibelli.github.io/files/Census_apjs_215_2_24.pdf)]
+* **Scibelli, S.**, Newberg, H. J., Carlin, J.L., & Yanny, B. (2014). &quot;Census of Blue Stars in SDSS DR8&quot; <i>APJS</i>. 215, 24. [[ADS](https://ui.adsabs.harvard.edu/#abs/2014ApJS..215...24S/abstract),[pdf](http://samscibelli.github.io/files/Census_apjs_215_2_24.pdf)]
 
