@@ -37,7 +37,7 @@ Astrobiologists are interested in understanding the origins of organic chemistry
 
 ***3D Radiative Transfer Modeling***
 
-In my most recent [publication](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.4579S/abstract), I have focused on understanding how starless cores in Taurus evolve by tracing not only their chemistry, but their physical structure. I performed 3D radiative transfer dust modeling with the code RADMC-3D, which was aided by high resolution (12 and 19 arcsecond) dust continuum maps (at 1.2mm and 2.0mm) of the B10 region within the L1495 filament. Constraints were placed on the central densities, density slopes, aspect ratios, dust opacities, and external radiation field strengths for 14 cores embedded within B10. The models were used to assess the stability and evolutionary state of each COM-rich core, which in turn has shed light on the conditions needed for COM chemistry to thrive.
+I am interested in understanding how starless cores evolve by tracing not only their chemistry, but their physical structure. I performed 3D radiative transfer dust modeling with the code RADMC-3D, which was aided by high resolution (12 and 19 arcsecond) dust continuum maps (at 1.2mm and 2.0mm) of the B10 region within the L1495 filament. Constraints were placed on the central densities, density slopes, aspect ratios, dust opacities, and external radiation field strengths for 14 cores embedded within B10. The models were used to assess the stability and evolutionary state of each COM-rich core, which in turn has shed light on the conditions needed for COM chemistry to thrive.
 
 ![PandoraModels](/images/forwebsite.jpeg)
 
