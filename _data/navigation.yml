@@ -16,5 +16,5 @@ main:
   - title: "Observing!"
     url: /observing/
 
-  - title: "Teaching"
-    url: /teaching/
+#  - title: "Teaching"
+#    url: /teaching/
