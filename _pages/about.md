@@ -55,7 +55,7 @@ As an intern at NASA's Jet Propulsion Laboratory, I worked on analyzing Hubble D
 
 As an undergraduate physics student at Stony Brook University, I was interested in dark matter and gravitational lensing.  My project focused on trying to break the degeneracies between disc and halo contributions in spiral galaxy rotation curves by combining kinematics and lensing. [[ADS](https://ui.adsabs.harvard.edu/#abs/2018arXiv181106556S/abstract),[arxiv](https://arxiv.org/abs/1811.06556)]
 
-Additionally, the summer before I started my undergraduate program, I interned at the Laser Teaching Center in the basement of the physics building at Stony Brook. I worked on understanding the caustic patterns that arise from evaporating water droplets, with the foresight in mind that understanding caustics would help me to formulate a project on gravitional lensing. [[Undergrad Research Page](https://laser.physics.sunysb.edu/_samantha/index.html)
+Additionally, the summer before I started my undergraduate program, I interned at the Laser Teaching Center in the basement of the physics building at Stony Brook. I worked on understanding the caustic patterns that arise from evaporating water droplets, with the foresight in mind that understanding caustics would help me to formulate a project on gravitional lensing. [[Undergrad Research Page]](https://www.stonybrook.edu/laser/_samantha/index.html)
 
 --------------------------------------------
 
