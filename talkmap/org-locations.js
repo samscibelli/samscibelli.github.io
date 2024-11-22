@@ -93,6 +93,21 @@ var addressPoints = [
     "Melbourne, Florida",
     28.0836, 
     -80.6081
+  ],
+  [
+    "Madrid, Spain",
+    40.4167, 
+    3.7033
+  ],
+  [
+    "Florence, Italy",
+    43.77, 
+    11.2577
+  ],
+  [
+    "Grenoble, France",
+    45.1885, 
+    5.7245
   ]
 
 ];
