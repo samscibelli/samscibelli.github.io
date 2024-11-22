@@ -97,7 +97,7 @@ var addressPoints = [
   [
     "Madrid, Spain",
     40.4167, 
-    3.7033
+    -3.7033
   ],
   [
     "Florence, Italy",
