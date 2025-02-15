@@ -46,5 +46,7 @@ background in physics. It centers around the text, "Essential Radio Astronomy" b
 
 Taught in the spring of 2024, this undergraduate level [course](https://aaa.org/event/introduction-to-astrochemistry-2024/2024-05-28/) focused on introducing the basics of molecular spectroscopy and the observational aspects of astrochemistry. 
 
-***Lecture Slides***
+# Independent Study 599: Science 'in' Fiction
+
+This course was designed for credit towards the University of Arizona's Graduate Certificate in Science Communication. As a scientist interested in the ways in which science can be communicated to a wide range of audiences, Samantha Scibelli wanted to design a course, with the help of Professor Alison Deming, that specifically explored how creative fiction can convey scientific concepts. 
 
