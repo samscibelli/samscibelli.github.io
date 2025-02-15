@@ -11,7 +11,7 @@ redirect_from:
 About Me
 ======
 
-Hi there! I'm Samantha Scibelli, a Jansky Postdoctoral Fellow at the [National Radio Astronomy Observatory (NRAO)](https://public.nrao.edu) in Charlottesville, VA. I am interested in the broader topics of star formation, astrochemistry and radio astronomy. See [Research Interests](#current-research-interests) and follow me on [ResearchGate](https://www.researchgate.net/profile/Samantha-Scibelli-2)!
+Hi there! I'm Samantha Scibelli, a Jansky Postdoctoral Fellow at the [National Radio Astronomy Observatory (NRAO)](https://public.nrao.edu) in Charlottesville, VA. I am interested in the broader topics of star formation, astrochemistry and radio astronomy. See [Research Interests](#research-interests) and follow me on [ResearchGate](https://www.researchgate.net/profile/Samantha-Scibelli-2)!
 
 Before my start at NRAO, I completed my PhD as a NSF Graduate Research Fellow in the Department of Astronomy and [Steward Observatory](https://www.as.arizona.edu/) at the University of Arizona. During my thesis I focused on constraining the physical, kinematic, and chemical structure of low-mass prestellar cores to better understand their evolution. 
 
