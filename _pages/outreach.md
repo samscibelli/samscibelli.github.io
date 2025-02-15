@@ -1,6 +1,6 @@
 ---
-title: "Community Engagement"
-permalink: /communityengagement/
+title: "Outreach"
+permalink: /outreach/
 author_profile: true
 ---
 
@@ -17,8 +17,7 @@ next generation of scientists and great thinkers!
 
 ![AstroCamp2](/images/astro5.jpg)
 
-
-[**Steward Observatory Diversity, Equity and Inclusion Initiative**](https://sites.google.com/view/sodei)
+<!--[**Steward Observatory Diversity, Equity and Inclusion Initiative**](https://sites.google.com/view/sodei)
 
 Steward Observatory’s Diversity, Equity and Inclusion Initiative, or SO DEI, aims to create a more equitable department by implementing actionable changes through five task forces: admissions, department climate, international scholars, mentoring practices, and recruiting & retention. As a co-organizer, a few of my roles include creating and maintaining the program's website and advertising our work to the larger department community. I am also an active member in the admissions task force.
 
@@ -28,7 +27,7 @@ The Diversity Journal Club is a space created to engage with the Steward Observa
 inclusion, and diversity. As an organizer, I listen to the needs of our community and help lead discussions which will enact
 meaningful changes to make Steward Observatory a more welcoming and inclusive community.
 
-Black Lives Matter. Around the world academics have paused for #strike4blacklives, [#shutdownstem](https://www.shutdownstem.com/) and #shutdownacademia, in collaboration with [Particles for Justice](https://www.particlesforjustice.org/). Click [here](https://blacklivesmatters.carrd.co/) for ways to help.
+Black Lives Matter. Around the world academics have paused for #strike4blacklives, [#shutdownstem](https://www.shutdownstem.com/) and #shutdownacademia, in collaboration with [Particles for Justice](https://www.particlesforjustice.org/). Click [here](https://blacklivesmatters.carrd.co/) for ways to help.-->
 
 [**Space Drafts**](https://astronomyontap.org/locations/tucson-az/)
 
