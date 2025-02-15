@@ -11,7 +11,7 @@ redirect_from:
 About Me
 ======
 
-Hi there! I'm Samantha Scibelli, a Jansky Postdoctoral Fellow at the [National Radio Astronomy Observatory (NRAO)](https://public.nrao.edu) in Charlottesville, VA. I am interested in the broader topics of star formation, astrochemistry and radio astronomy. See [Research Interests](#research-interests) and follow me on [ResearchGate](https://www.researchgate.net/profile/Samantha-Scibelli-2)!
+Hi there! I'm Samantha Scibelli, a Jansky Postdoctoral Fellow at the [National Radio Astronomy Observatory (NRAO)](https://public.nrao.edu) in Charlottesville, VA. I am interested in the broader topics of star formation, astrochemistry and radio astronomy. See [Current Research Interests](#current-research-interests) and follow me on [ResearchGate](https://www.researchgate.net/profile/Samantha-Scibelli-2)!
 
 Before my start at NRAO, I completed my PhD as a NSF Graduate Research Fellow in the Department of Astronomy and [Steward Observatory](https://www.as.arizona.edu/) at the University of Arizona. During my thesis I focused on constraining the physical, kinematic, and chemical structure of low-mass prestellar cores to better understand their evolution. 
 
@@ -25,7 +25,7 @@ I have also been featured in the [1MWIS campaign](http://www.1mwis.com/profiles/
 
 --------------------------------------------
 
-# Research Interests
+# Current Research Interests
 
 ***Complex Organic Chemistry in Starless and Prestellar Cores in Taurus***
 
@@ -51,13 +51,16 @@ I am interested in understanding how these starless cores evolve by tracing not 
 
 ***Is Taurus Unique? Precursor Prebiotic Chemistry in the Perseus Molecular Cloud***
 
-A large multi-source survey in the Perseus Molecular Cloud using both the [ARO] 12m telescope and the Yebes 40m telescope found a prevalence of COMs in the majority of starless and prestellar cores targeted. 
+A large multi-source survey in the Perseus Molecular Cloud using both the [ARO](http://aro.as.arizona.edu/) 12m telescope and the [Yebes](https://rt40m.oan.es) 40m telescope found a prevalence of COMs in the majority of starless and prestellar cores targeted. [Check out Astrochem Podcast Episode!](https://coffee.astrochem.net/episodes/september-2024)
 
 
+The [survey paper]() has led to numerous follow-up projects! Including 1) comparisons to [MHD simulations](https://ui.adsabs.harvard.edu/abs/2025MNRAS.tmp..178P/abstract), 2) an REU project that led to the detection of numerous large carbon-chain species [(Pokorny-Yadav, Scibelli, et al., in prep)],  and 3) follow-up IRAM 30\m observations that confirmed the first detection of the phosphorous molecules PN and PO.
+
+
+<!---
 --------------------------------------------
 ***Prestellar Core IRAS 16293 E*** 
-
-There is 
+There is -->
 
 
 Previous Research Interests
