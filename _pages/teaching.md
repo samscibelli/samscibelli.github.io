@@ -48,5 +48,5 @@ Taught in the spring of 2024, this undergraduate level [course](https://aaa.org/
 
 # Independent Study 599: Science 'in' Fiction
 
-This course was designed for credit towards the University of Arizona's Graduate Certificate in Science Communication. As a scientist interested in the ways in which science can be communicated to a wide range of audiences, Samantha Scibelli wanted to design a course, with the help of Professor Alison Deming, that specifically explored how creative fiction can convey scientific concepts. 
+This course was designed for credit towards the University of Arizona's Graduate Certificate in Science Communication. As a scientist interested in the ways in which science can be communicated to a wide range of audiences, Samantha Scibelli wanted to design a course, with the help of Professor Alison Deming, that specifically explored how creative fiction can convey scientific concepts. The syllabus can be found [here](/files/Syllabus_Independent_Study_11.26.21.pdf)
 
