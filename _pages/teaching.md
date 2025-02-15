@@ -23,7 +23,7 @@ background in physics. It centers around the text, "Essential Radio Astronomy" b
 
 [Oct16 - Interferometers](/files/RadioAstro_Lecture_Oct16.pdf)
 
-[Oct21 - Interferometers & Spectral Lines/Astrochemistry](/files/RadioAstro_Lecture_Oct21.pdf)
+[Oct21 - Spectral Lines & Astrochemistry](/files/RadioAstro_Lecture_Oct21.pdf)
 
 [Oct23 - Spectral Lines & Radiative Transfer](/files/RadioAstro_Lecture_Oct23.pdf)
 
