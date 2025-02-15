@@ -40,3 +40,9 @@ background in physics. It centers around the text, "Essential Radio Astronomy" b
 [Dec2 - Synchrotron](/files/RadioAstro_Lecture_Dec2.pdf)
 
 [Dec4 - Synchrotron](/files/RadioAstro_Lecture_Dec4.pdf)
+
+
+# AAA.org Course: Introduction to Astrochemistry
+
+This undergraduate level [course](https://aaa.org/event/introduction-to-astrochemistry-2024/2024-05-28/) focused on observational aspects of astrochemistry. 
+
