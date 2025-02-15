@@ -9,9 +9,9 @@ Teaching
 
 # ASTR 5340: Introduction to Radio Astronomy
 
-Astronomy 5340 is a one-semester course in radio astronomy intended for astronomy graduate
+Astronomy 5340 is a one-semester UVa course in radio astronomy intended for astronomy graduate
 students, astrochemistry graduate students, and advanced undergraduates with a strong
-background in physics. It centers around the text, "Essential Radio Astronomy" by James J. Condon and Scott M. Ransom (content is available [online](https://science.nrao.edu/opportunities/courses/era))
+background in physics. It centers around the text, "Essential Radio Astronomy" by James J. Condon and Scott M. Ransom (content is available [online](https://science.nrao.edu/opportunities/courses/era)). The Fall 2024 class was co-taught by myself, Samantha Scibelli, and Jim Braatz.
 
 
 ![GBT group](/images/IMG_1223.jpeg)
@@ -44,5 +44,7 @@ background in physics. It centers around the text, "Essential Radio Astronomy" b
 
 # AAA.org Course: Introduction to Astrochemistry
 
-This undergraduate level [course](https://aaa.org/event/introduction-to-astrochemistry-2024/2024-05-28/) focused on observational aspects of astrochemistry. 
+Taught in the spring of 2024, this undergraduate level [course](https://aaa.org/event/introduction-to-astrochemistry-2024/2024-05-28/) focused on introducing the basics of molecular spectroscopy and the observational aspects of astrochemistry. 
+
+***Lecture Slides***
 
