@@ -19,3 +19,4 @@ background in physics. It centers around the text, "Essential Radio Astronomy" b
 
 ***Lecture Slides***
 
+[Sep23 - Fourier Transforms and Dust](/files/RadioAstro_Lecture_Sep23.pdf)
