@@ -20,3 +20,5 @@ background in physics. It centers around the text, "Essential Radio Astronomy" b
 ***Lecture Slides***
 
 [Sep23 - Fourier Transforms and Dust](/files/RadioAstro_Lecture_Sep23.pdf)
+
+[Oct16 - Interferometers](/files/RadioAstro_Lecture_Oct16.pdf)
