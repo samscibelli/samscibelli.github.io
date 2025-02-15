@@ -29,13 +29,17 @@ I have also been featured in the [1MWIS campaign](http://www.1mwis.com/profiles/
 
 ***COMs in Prestellar Cores***
 
-Astrobiologists are interested in understanding the origins of organic chemistry, the basis for life on Earth, and believe it is very likely to have had its origin at the very early stages of solar system formation. A starless, or prestellar, core is a dense clump of gas and dust which acts as a primordial birthplace for a low-mass (solar-type) star. I use the [ARO](http://aro.as.arizona.edu/) 12M radio dish on Kitt Peak to search for Complex Organic Molecules (COMs) in prestellar cores located along the Taurus Molecular Cloud, a filamentary star forming region (shown below). By studying the chemistry within these cores we can better understand their physical properties and evolutionary timescales. [[Check out this astrobites article!]](https://astrobites.org/2020/03/16/coms-in-cores-complex-chemistry-in-dense-cores-in-the-taurus-star-forming-region/) & [[News Link]](https://news.arizona.edu/story/ingredients-life-appear-stellar-nurseries-long-stars-are-born)
+Astrochemists and astrobiologists are interested in understanding the origins of organic chemistry, the basis for life on Earth, and believe it is very likely to have had its origin at the very early stages of solar system formation. A starless, or prestellar, core is a dense clump of gas and dust which acts as a primordial birthplace for a low-mass (solar-type) star. I use the [ARO](http://aro.as.arizona.edu/) 12M radio dish on Kitt Peak to search for Complex Organic Molecules (COMs) in prestellar cores located along the Taurus Molecular Cloud, a filamentary star forming region (shown below). By studying the chemistry within these cores we can better understand their physical properties and evolutionary timescales. [[Check out this astrobites article!]](https://astrobites.org/2020/03/16/coms-in-cores-complex-chemistry-in-dense-cores-in-the-taurus-star-forming-region/) & [[News Link]](https://news.arizona.edu/story/ingredients-life-appear-stellar-nurseries-long-stars-are-born)
 
 ![Taurus Molecular Cloud](/images/hersh_mol_image.jpeg)
 
 *Adapted Herschel Image of the Taurus Molecular Cloud (~135pc away)*
 
 *Credit: ESA/Herschel/NASA/JPL-Caltech, CC BY-SA 3.0 IGO; Acknowledgement: R. Hurt (JPL-Caltech)*
+
+  **Is Taurus Unique?**
+
+A large multi-core survey in the Perseus Molecular Cloud 
 
 --------------------------------------------
 
