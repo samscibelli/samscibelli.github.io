@@ -7,7 +7,7 @@ author_profile: true
 Teaching
 ======
 
-ASTR 5340: Introduction to Radio Astronomy
+# ASTR 5340: Introduction to Radio Astronomy
 
 Astronomy 5340 is a one-semester course in radio astronomy intended for astronomy graduate
 students, astrochemistry graduate students, and advanced undergraduates with a strong
