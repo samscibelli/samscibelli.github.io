@@ -16,3 +16,6 @@ background in physics. It centers around the text, "Essential Radio Astronomy" b
 
 ![GBT group](/images/IMG_1223.jpeg)
 
+
+***Lecture Slides***
+
