@@ -31,7 +31,7 @@ background in physics. It centers around the text, "Essential Radio Astronomy" b
 
 [Nov13 - HI 21cm Line](/files/RadioAstro_Lecture_Nov13.pdf)
 
-[Nov18 - HII Regions & Radio Recombination Lines](/files/Radio_Lecture_Nov18.pdf)
+[Nov18 - HII Regions & Radio Recombination Lines](/files/RadioAstro_Lecture_Nov18.pdf)
 
 [Nov20 - Radio Recombination Lines & Free-Free](/files/RadioAstro_Lecture_Nov20.pdf)
 
