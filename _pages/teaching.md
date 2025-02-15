@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 Teaching
+======
 
 ASTR 5340: Radio Astronomy
 
