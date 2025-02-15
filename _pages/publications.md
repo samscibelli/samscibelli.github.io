@@ -8,7 +8,7 @@ All ADS Listings [here](https://ui.adsabs.harvard.edu/search/filter_database_fq_
 
 Featured Publications: 
 
-* Siebert, M. A. ; Sahai, R. ; **Scibelli, S.** ; Remijan, A. J., (2025) "Molecular Distributions and Abundances in the Binary-Shaped Outflow of V Hya"; ApJ, 979, 119. [[ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv241108120S/abstract), [arxiv](https://arxiv.org/abs/2411.08120)]
+* Siebert, M. A., Sahai, R., **Scibelli, S.**, Remijan, A. J., (2025) "Molecular Distributions and Abundances in the Binary-Shaped Outflow of V Hya"; ApJ, 979, 119. [[ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv241108120S/abstract), [arxiv](https://arxiv.org/abs/2411.08120)]
   
 * **Scibelli, S.**, Shirley, Y., Megías, A., & Jiménez-Serra, I, (2024) “Survey of Complex Organic Molecules in Starless and Prestellar Cores in the Perseus Molecular Cloud”; MNRAS, 533, 4. 
 [[ADS](https://ui.adsabs.harvard.edu/abs/2024MNRAS.533.4104S/abstract), [arxiv](https://arxiv.org/abs/2408.11613)]
