@@ -37,7 +37,6 @@ Astrochemists and astrobiologists are interested in understanding the origins of
 
 *Credit: ESA/Herschel/NASA/JPL-Caltech, CC BY-SA 3.0 IGO; Acknowledgement: R. Hurt (JPL-Caltech)*
 
---------------------------------------------
 
 ***3D Radiative Transfer Modeling***
 
@@ -47,7 +46,6 @@ I am interested in understanding how these starless cores evolve by tracing not 
 
 *Adapted from [Scibelli et al., 2023](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.4579S/abstract)*
 
---------------------------------------------
 
 ***Is Taurus Unique? Precursor Prebiotic Chemistry in the Perseus Molecular Cloud***
 
@@ -62,6 +60,7 @@ The [survey paper](https://ui.adsabs.harvard.edu/abs/2024MNRAS.533.4104S/abstrac
 ***Prestellar Core IRAS 16293 E*** 
 There is -->
 
+--------------------------------------------
 
 Previous Research Interests
 ======
