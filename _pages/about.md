@@ -54,7 +54,7 @@ I am interested in understanding how these starless cores evolve by tracing not 
 A large multi-source survey in the Perseus Molecular Cloud using both the [ARO](http://aro.as.arizona.edu/) 12m telescope and the [Yebes](https://rt40m.oan.es) 40m telescope found a prevalence of COMs in the majority of starless and prestellar cores targeted. [Check out Astrochem Podcast Episode!](https://coffee.astrochem.net/episodes/september-2024)
 
 
-The [survey paper](https://ui.adsabs.harvard.edu/abs/2024MNRAS.533.4104S/abstract) has led to numerous follow-up projects! Including 1) comparisons to [MHD simulations](https://ui.adsabs.harvard.edu/abs/2025MNRAS.tmp..178P/abstract and 2) detections of numerous large carbon-chain species *(Pokorny-Yadav, Scibelli, et al., in prep)*.
+The [survey paper](https://ui.adsabs.harvard.edu/abs/2024MNRAS.533.4104S/abstract) has led to numerous follow-up projects! Including 1) comparisons to [MHD simulations](https://ui.adsabs.harvard.edu/abs/2025MNRAS.tmp..178P/abstract), 2) detections of numerous large carbon-chain species *(Pokorny-Yadav, Scibelli, et al., in prep)*, and 3) the first detections of biologically relavant phosphorous-bearing molecules toward a shocked starless core *(Scibelli, et al., in prep)*!
 
 
 <!--- and 3) follow-up IRAM 30\m observations that confirmed the first detection of the phosphorous molecules PN and PO.
