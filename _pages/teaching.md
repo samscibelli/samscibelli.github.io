@@ -44,6 +44,19 @@ background in physics. It centers around the text, "Essential Radio Astronomy" b
 
 Taught in the spring of 2024, this undergraduate level [course](https://aaa.org/event/introduction-to-astrochemistry-2024/2024-05-28/) focused on introducing the basics of molecular spectroscopy and the observational aspects of astrochemistry. 
 
+***Lecture Slides***
+
+[E&M Introduction](/files/Lecture0_E&M_FINAL.pdf)
+
+[Molecular Spectroscopy & Millimeter Radio Telescopes](/files/Lecture1_Radio_Spectra_FINAL.pdf)
+
+[Molecular Clouds and the Formation of Stars and Planets](/files/Lecture2_StarFormation_FINAL.pdf)
+
+[Interstellar Dust and Evolved Stars](/files/Lecture3_EvolvedStars_FINAL.pdf)
+
+[Comets and Exoplanets](/files/Lecture4_explanets_comets_FINAL.pdf)
+
+
 # Independent Study 599: Science 'in' Fiction
 
 This course was designed for credit towards the University of Arizona's Graduate Certificate in Science Communication. As a scientist interested in the ways in which science can be communicated to a wide range of audiences, Samantha Scibelli wanted to design a course, with the help of Professor Alison Deming, that specifically explored how creative fiction can convey scientific concepts. The syllabus can be found [here](/files/Syllabus_Independent_Study_599_11.26.21.pdf).
