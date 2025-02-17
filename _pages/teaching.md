@@ -4,7 +4,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-
+--------------------------------------------
 # ASTR 5340: Introduction to Radio Astronomy
 
 Astronomy 5340 is a one-semester UVa course in radio astronomy intended for astronomy graduate
@@ -39,7 +39,7 @@ background in physics. It centers around the text, "Essential Radio Astronomy" b
 
 [Dec4 - Synchrotron](/files/RadioAstro_Lecture_Dec4.pdf)
 
-
+--------------------------------------------
 # AAA.org Course: Introduction to Astrochemistry
 
 Taught in the spring of 2024, this undergraduate level [course](https://aaa.org/event/introduction-to-astrochemistry-2024/2024-05-28/) focused on introducing the basics of molecular spectroscopy and the observational aspects of astrochemistry. 
@@ -56,7 +56,7 @@ Taught in the spring of 2024, this undergraduate level [course](https://aaa.org/
 
 [Comets and Exoplanets](/files/Lecture4_explanets_comets_FINAL.pdf)
 
-
+--------------------------------------------
 # Independent Study 599: Science 'in' Fiction
 
 This course was designed for credit towards the University of Arizona's Graduate Certificate in Science Communication. As a scientist interested in the ways in which science can be communicated to a wide range of audiences, Samantha Scibelli wanted to design a course, with the help of Professor Alison Deming, that specifically explored how creative fiction can convey scientific concepts. The syllabus can be found [here](/files/Syllabus_Independent_Study_599_11.26.21.pdf).
