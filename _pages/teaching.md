@@ -42,7 +42,7 @@ background in physics. It centers around the text, "Essential Radio Astronomy" b
 --------------------------------------------
 # AAA.org Course: Introduction to Astrochemistry
 
-Taught in the spring of 2024, this undergraduate level [course](https://aaa.org/event/introduction-to-astrochemistry-2024/2024-05-28/) focused on introducing the basics of molecular spectroscopy and the observational aspects of astrochemistry. 
+Designed and taught in the spring of 2024, this undergraduate-level [course](https://aaa.org/event/introduction-to-astrochemistry-2024/2024-05-28/) focused on introducing the basics of molecular spectroscopy and the observational aspects of astrochemistry. 
 
 ***Lecture Slides***
 
