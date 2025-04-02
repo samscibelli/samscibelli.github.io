@@ -8,7 +8,7 @@ All ADS Listings [here](https://ui.adsabs.harvard.edu/search/filter_database_fq_
 
 Featured Publications: 
 
-* Priestley, F. D., Clark, P. C., Ragan, S. E., **Scibelli, S.**, et al., (2025) "NEATH IV: an early onset of complex organic chemistry in molecular clouds"; MNRAS accepted. [[ADS](https://ui.adsabs.harvard.edu/abs/2025MNRAS.tmp..178P/abstract), [arxiv](https://arxiv.org/abs/2501.17955) ]
+* Priestley, F. D., Clark, P. C., Ragan, S. E., **Scibelli, S.**, et al., (2025) "NEATH IV: an early onset of complex organic chemistry in molecular clouds"; MNRAS, 537, 3. [[ADS](https://ui.adsabs.harvard.edu/abs/2025MNRAS.tmp..178P/abstract), [arxiv](https://arxiv.org/abs/2501.17955) ]
   
 * Siebert, M. A., Sahai, R., **Scibelli, S.**, Remijan, A. J., (2025) "Molecular Distributions and Abundances in the Binary-Shaped Outflow of V Hya"; ApJ, 979, 119. [[ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv241108120S/abstract), [arxiv](https://arxiv.org/abs/2411.08120)]
   
