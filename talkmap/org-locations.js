@@ -108,6 +108,9 @@ var addressPoints = [
     "Grenoble, France",
     45.1885, 
     5.7245
-  ]
-
+  ],
+  [
+    "Grenoble, France",
+    38.7824, 
+    77.0110
 ];
