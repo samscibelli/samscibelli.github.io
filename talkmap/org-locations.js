@@ -112,6 +112,6 @@ var addressPoints = [
   [
     "National Harbor, Maryland",
     38.7824, 
-    77.0110
+    -77.0110
   ]
 ];
