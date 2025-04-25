@@ -58,7 +58,10 @@ The [survey paper](https://ui.adsabs.harvard.edu/abs/2024MNRAS.533.4104S/abstrac
 <!--- and 3) follow-up IRAM 30\m observations that confirmed the first detection of the phosphorous molecules PN and PO.
 --------------------------------------------
 ***Prestellar Core IRAS 16293 E*** 
-There is -->
+There is 
+![PerseusMolecules](/images/pers_survey_fig_forweb_updated.jpeg)
+
+-->
 
 --------------------------------------------
 
