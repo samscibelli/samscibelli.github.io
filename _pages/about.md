@@ -84,6 +84,8 @@ Relevant Links
 
 [Astrochemistry Textbooks](https://www.astrochymist.org/astrochymist_texts.html)
 
+[Astromolecule of the Month](http://www.astrochymist.org/AMOTM/)
+
 [Splatalogue](https://splatalogue.online/#/home)
 
 [Simbad](http://simbad.cds.unistra.fr/simbad/)
