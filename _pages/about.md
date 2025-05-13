@@ -54,13 +54,13 @@ A large multi-source survey in the Perseus Molecular Cloud using both the [ARO](
 
 The [survey paper](https://ui.adsabs.harvard.edu/abs/2024MNRAS.533.4104S/abstract) has led to numerous follow-up projects! Including:
 
-1) Comparisons to [MHD simulations](https://ui.adsabs.harvard.edu/abs/2025MNRAS.tmp..178P/abstract)
+    1) Comparisons to [MHD simulations](https://ui.adsabs.harvard.edu/abs/2025MNRAS.tmp..178P/abstract)
    
-2) Detections of numerous large carbon-chain species *(Pokorny-Yadav, Scibelli, et al., in prep)*
+    2) Detections of numerous large carbon-chain species *(Pokorny-Yadav, Scibelli, et al., in prep)*
    
-3) Succesive deuteration in COMs as well as large carbon-chains *(Ferrer Asensio, Scibelli et al., in prep)*
+    3) Succesive deuteration in COMs as well as large carbon-chains *(Ferrer Asensio, Scibelli et al., in prep)*
    
-4) The first detections of biologically relavant phosphorous-bearing molecules toward a shocked starless core *[(Scibelli, et al., 2025)](https://arxiv.org/abs/2504.17849)*!
+    4) The first detections of biologically relavant phosphorous-bearing molecules toward a shocked starless core *[(Scibelli, et al., 2025)](https://arxiv.org/abs/2504.17849)*!
 
 
 ![PerseusMolecules](/images/pers_survey_fig_forweb_updated.jpeg)
