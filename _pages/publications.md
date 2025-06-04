@@ -8,7 +8,7 @@ All ADS Listings [here](https://ui.adsabs.harvard.edu/search/filter_database_fq_
 
 Featured Publications: 
 
-* **Scibelli, S.**, Megías, A., & Jiménez-Serra, I., et al., (2025) “First detections of PN, PO and PO+ toward a shocked low-mass starless core”; accepted for publication in ApJL 
+* **Scibelli, S.**, Megías, A., & Jiménez-Serra, I., et al., (2025) “First detections of PN, PO and PO+ toward a shocked low-mass starless core”; ApJL, 985, 2
 [[ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250417849S/abstract), [arxiv](https://arxiv.org/abs/2504.17849)]
 
 * Priestley, F. D., Clark, P. C., Ragan, S. E., **Scibelli, S.**, et al., (2025) "NEATH IV: an early onset of complex organic chemistry in molecular clouds"; MNRAS, 537, 3. [[ADS](https://ui.adsabs.harvard.edu/abs/2025MNRAS.tmp..178P/abstract), [arxiv](https://arxiv.org/abs/2501.17955) ]
