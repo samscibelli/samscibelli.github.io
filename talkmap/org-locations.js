@@ -113,5 +113,20 @@ var addressPoints = [
     "National Harbor, Maryland",
     38.7824, 
     -77.0110
+  ],
+  [
+    "Stony Brook, New York",
+    40.9257,
+    -73.1409
+  ],
+  [
+    "Greenbelt, Maryland",
+    39.0046,
+    -76.8755
+  ],
+  [
+    "Greenbelt, Maryland",
+    51.8985,
+    -8.4756
   ]
 ];
