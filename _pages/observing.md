@@ -4,8 +4,6 @@ permalink: /observing/
 author_profile: true
 ---
 
-I have had 38 different observing proposals accepted as PI (including 1 large program, GLUCOSE, with the GBT) and have observed over 2,000 hours! (See my [CV](http://samscibelli.github.io/files/Sam_Scibelli_CV.pdf) for a full list of proposals) 
-
 [**GBT Observations**](https://greenbankobservatory.org/science/gbt-surveys/)
 
 *Project GLUCOSE:* The GBT L1544 Unbiased Complex Organics SurvEy! This spectral line survey will cover Q-band, from ~38-48 GHz. [Check out our survey page!](https://greenbankobservatory.org/science/gbt-surveys/glucose/)
