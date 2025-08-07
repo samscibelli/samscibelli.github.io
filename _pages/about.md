@@ -11,9 +11,9 @@ redirect_from:
 About Me
 ======
 
-Hi there! I'm Samantha Scibelli, a Jansky Postdoctoral Fellow at the [National Radio Astronomy Observatory (NRAO)](https://public.nrao.edu) in Charlottesville, VA. I am interested in the broader topics of star formation, astrochemistry and radio astronomy. See [Current Research Interests](#current-research-interests), download my [CV](http://samscibelli.github.io/files/Sam_Scibelli_CV.pdf), and follow me on [ResearchGate](https://www.researchgate.net/profile/Samantha-Scibelli-2)!
+Hi there! I'm Samantha Scibelli, a Jansky Postdoctoral Fellow at the [National Radio Astronomy Observatory (NRAO)](https://public.nrao.edu) in Charlottesville, VA. I am interested in the broader topics of star formation, astrochemistry and radio astronomy. I primarily use millimeter and submillimeter telescopes (such as the ARO 12m, IRAM 30m, Yebes 40m, GBT, and ALMA) to probe the origins of organic chemistry, the basis for life on Earth, at the very early stages of solar system formation in dense molecular gas clumps. See [Current Research Interests](#current-research-interests), download my [CV](http://samscibelli.github.io/files/Sam_Scibelli_CV.pdf), and follow me on [ResearchGate](https://www.researchgate.net/profile/Samantha-Scibelli-2)!
 
-Before my start at NRAO, I completed my PhD as a NSF Graduate Research Fellow in the Department of Astronomy and [Steward Observatory](https://www.as.arizona.edu/) at the University of Arizona. During my thesis I focused on constraining the physical, kinematic, and chemical structure of low-mass prestellar cores to better understand their evolution. 
+Before my start at NRAO, I completed my PhD as a NSF Graduate Research Fellow in the Department of Astronomy and [Steward Observatory](https://www.as.arizona.edu/) at the University of Arizona. During my [thesis](https://ui.adsabs.harvard.edu/abs/2023PhDT........72S/abstract) I focused on constraining the physical, kinematic, and chemical structure of low-mass prestellar cores to better understand their evolution. 
 
 In my free time I enjoy cuddling with my cat, Tabatha, going for hikes, cooking new recipes and reading popular science books. Passionate about science writing myself, I also completed a Science Communications Certificate at the University of Arizona. [A short memoir](https://www.terrain.org/2020/science-stories/a-witch-to-the-stars/), describing my early childhood and how I got interested in astronomy, has been published online at [terrian.org](https://www.terrain.org/). I've written science articles on the hidden secrets of local squirrels in [The Daily Wildcat](https://www.wildcat.arizona.edu/article/2020/12/sc-squirrel-graduate?fbclid=IwAR0FxdXDpPEO1BSMkoRu7liYYbnPFCv7BQN3ONdx_y5F-MX8aZrEZd0vKLg), and another on how satellite communication networks will negatively affect radio astronomy in the [Green Valley News](https://www.gvnews.com/news/scientists-too-many-satellites-will-hurt-research/article_1e67426e-3b4c-11eb-93ad-d31d0c5c00f4.html). 
 
@@ -29,18 +29,17 @@ I have also been featured in the [1MWIS campaign](http://www.1mwis.com/profiles/
 
 ***Precursor Prebiotic Chemistry in the Perseus Molecular Cloud***
 
-A large multi-source survey in the Perseus Molecular Cloud using both the [ARO](http://aro.as.arizona.edu/) 12m telescope and the [Yebes](https://rt40m.oan.es) 40m telescope found a prevalence of COMs in the majority of starless and prestellar cores targeted. [Check out Astrochem Podcast Episode!](https://coffee.astrochem.net/episodes/september-2024)
+A large multi-source survey in the Perseus Molecular Cloud using both the [ARO](http://aro.as.arizona.edu/) 12m telescope and the [Yebes](https://rt40m.oan.es) 40m telescope found a prevalence of COMs in the majority of starless and prestellar cores targeted. Detections of formic acid, t-HCOOH, ketene, H2CCO, methyl cyanide, CH3CN, methanol, CH3OH, acetaldehyde, CH3CHO, vinyl cyanide, CH2CHCN, methyl formate, HCOOCH3 , and dimethyl ether, CH3OCH3, are seen in at least 20 per cent of the cores. Our findings have more than doubled COM detection statistics! [Check out Astrochem Podcast Episode!](https://coffee.astrochem.net/episodes/september-2024)
 
+The survey paper ([Scibelli et al., 2024](https://ui.adsabs.harvard.edu/abs/2024MNRAS.533.4104S/abstract)) has also led to numerous follow-up projects, including:
 
-The [survey paper](https://ui.adsabs.harvard.edu/abs/2024MNRAS.533.4104S/abstract) has led to numerous follow-up projects! Including:
-
-  1. Comparisons to MHD simulated cores coupled with time-dependent gas-grain model produces similar COM abundances (for CH3OH and CH3CN) to our observations [Priestley et al., 2025](https://ui.adsabs.harvard.edu/abs/2025MNRAS.tmp..178P/abstract)
+  1. Comparisons to MHD simulated cores coupled with time-dependent gas-grain model, which produce similar COM abundances (for CH3OH and CH3CN) to our observations [Priestley et al., 2025](https://ui.adsabs.harvard.edu/abs/2025MNRAS.tmp..178P/abstract)
    
-  2. Detections of numerous large carbon-chain species *(Pokorny-Yadav, Scibelli, et al., in prep)*
+  2. The first detections of biologically relavant phosphorous-bearing molecules toward a shocked starless core *[(Scibelli, et al., 2025)](https://arxiv.org/abs/2504.17849)*!
    
-  3. Succesive deuteration in COMs as well as large carbon-chains *(Ferrer Asensio, Scibelli et al., in prep)*
+  3. Detections of numerous large carbon-chain species including cyanoplyynes (HCnN) and sulfur-bearing (CnS) carbon-chains *(Pokorny-Yadav, Scibelli, et al., in prep)*
    
-  4. The first detections of biologically relavant phosphorous-bearing molecules toward a shocked starless core *[(Scibelli, et al., 2025)](https://arxiv.org/abs/2504.17849)*!
+  4. Succesive deuteration in COMs as well as the large carbon-chain c-C3H2 *(Ferrer Asensio, Scibelli et al., in prep)*
 
 
 ![PerseusMolecules](/images/pers_survey_fig_forweb_updated.jpeg)
@@ -57,7 +56,7 @@ I am interested in understanding how these starless cores evolve by tracing not 
 
 ***Complex Organic Chemistry in Starless and Prestellar Cores in Taurus***
 
-Astrochemists and astrobiologists are interested in understanding the origins of organic chemistry, the basis for life on Earth, and believe it is very likely to have had its origin at the very early stages of solar system formation. A starless, or prestellar, core is a dense clump of gas and dust which acts as a primordial birthplace for a low-mass (solar-type) star. I used the [ARO](http://aro.as.arizona.edu/) 12M radio dish on Kitt Peak to search for complex organic molecules (COMs) in prestellar cores located along the Taurus Molecular Cloud, a filamentary star forming region (shown below). By studying the chemistry within these cores we can better understand their physical properties and evolutionary timescales. [[Check out this astrobites article!]](https://astrobites.org/2020/03/16/coms-in-cores-complex-chemistry-in-dense-cores-in-the-taurus-star-forming-region/) & [[News Link]](https://news.arizona.edu/story/ingredients-life-appear-stellar-nurseries-long-stars-are-born)
+During my thesis, I used the [ARO](http://aro.as.arizona.edu/) 12M radio dish on Kitt Peak to search for complex organic molecules (COMs) in prestellar cores located along the Taurus Molecular Cloud, a filamentary star forming region (shown below). By studying the chemistry within these cores we can better understand their physical properties and evolutionary timescales. We find that COMs are detectable in the gas phase and are being formed early, at least hundreds of thousands of years prior to star and planet formation (). [[Check out this astrobites article!]](https://astrobites.org/2020/03/16/coms-in-cores-complex-chemistry-in-dense-cores-in-the-taurus-star-forming-region/) & [[News Link]](https://news.arizona.edu/story/ingredients-life-appear-stellar-nurseries-long-stars-are-born)
 
 ![Taurus Molecular Cloud](/images/hersh_mol_image.jpeg)
 
