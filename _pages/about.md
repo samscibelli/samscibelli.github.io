@@ -33,7 +33,7 @@ A large multi-source survey in the Perseus Molecular Cloud using both the [ARO](
 
 The survey paper ([Scibelli et al., 2024](https://ui.adsabs.harvard.edu/abs/2024MNRAS.533.4104S/abstract)) has also led to numerous follow-up projects, including:
 
-  1. Comparisons to MHD simulated cores coupled with time-dependent gas-grain model, which produce similar COM abundances (for CH3OH and CH3CN) to our observations [Priestley et al., 2025](https://ui.adsabs.harvard.edu/abs/2025MNRAS.tmp..178P/abstract)
+  1. Comparisons to MHD simulated cores coupled with time-dependent gas-grain model, which produce similar COM abundances (for CH3OH and CH3CN) to our observations ([Priestley et al., 2025](https://ui.adsabs.harvard.edu/abs/2025MNRAS.tmp..178P/abstract))
    
   2. The first detections of biologically relavant phosphorous-bearing molecules toward a shocked starless core *[(Scibelli, et al., 2025)](https://arxiv.org/abs/2504.17849)*!
    
@@ -56,14 +56,13 @@ I am interested in understanding how these starless cores evolve by tracing not 
 
 ***Complex Organic Chemistry in Starless and Prestellar Cores in Taurus***
 
-During my thesis, I used the [ARO](http://aro.as.arizona.edu/) 12M radio dish on Kitt Peak to search for complex organic molecules (COMs) in prestellar cores located along the Taurus Molecular Cloud, a filamentary star forming region (shown below). By studying the chemistry within these cores we can better understand their physical properties and evolutionary timescales. We find that COMs are detectable in the gas phase and are being formed early, at least hundreds of thousands of years prior to star and planet formation (). [[Check out this astrobites article!]](https://astrobites.org/2020/03/16/coms-in-cores-complex-chemistry-in-dense-cores-in-the-taurus-star-forming-region/) & [[News Link]](https://news.arizona.edu/story/ingredients-life-appear-stellar-nurseries-long-stars-are-born)
+During my thesis, I used the [ARO](http://aro.as.arizona.edu/) 12M radio dish on Kitt Peak to search for complex organic molecules (COMs) in prestellar cores located along the Taurus Molecular Cloud, a filamentary star forming region (shown below). We find that COMs are detectable in the gas phase and are being formed early, at least hundreds of thousands of years prior to star and planet formation ([Scibelli & Shirley 2020](https://ui.adsabs.harvard.edu/abs/2020arXiv200202469S/abstract), [Scibelli et al., 2021]((https://ui.adsabs.harvard.edu/abs/2021arXiv210407683S/abstract)))! By studying the chemistry within these cores we can better understand their physical properties and evolutionary timescales. [[Check out this astrobites article!]](https://astrobites.org/2020/03/16/coms-in-cores-complex-chemistry-in-dense-cores-in-the-taurus-star-forming-region/) & [[News Link]](https://news.arizona.edu/story/ingredients-life-appear-stellar-nurseries-long-stars-are-born)
 
 ![Taurus Molecular Cloud](/images/hersh_mol_image.jpeg)
 
 *Adapted Herschel Image of the Taurus Molecular Cloud (~135pc away)*
 
 *Credit: ESA/Herschel/NASA/JPL-Caltech, CC BY-SA 3.0 IGO; Acknowledgement: R. Hurt (JPL-Caltech)*
-
 
 <!--- and 3) follow-up IRAM 30\m observations that confirmed the first detection of the phosphorous molecules PN and PO.
 --------------------------------------------
