@@ -54,7 +54,7 @@ A large multi-source survey in the Perseus Molecular Cloud using both the [ARO](
 
 The [survey paper](https://ui.adsabs.harvard.edu/abs/2024MNRAS.533.4104S/abstract) has led to numerous follow-up projects! Including:
 
-  1. Comparisons to [MHD simulations](https://ui.adsabs.harvard.edu/abs/2025MNRAS.tmp..178P/abstract)
+  1. Comparisons to MHD simulated cores coupled with time-dependent gas-grain model produces similar COM abundances (for CH3OH and CH3CN) to our observations [Priestley et al., 2025](https://ui.adsabs.harvard.edu/abs/2025MNRAS.tmp..178P/abstract)
    
   2. Detections of numerous large carbon-chain species *(Pokorny-Yadav, Scibelli, et al., in prep)*
    
