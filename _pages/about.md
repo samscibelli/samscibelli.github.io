@@ -27,27 +27,7 @@ I have also been featured in the [1MWIS campaign](http://www.1mwis.com/profiles/
 
 # Current Research Interests
 
-***Complex Organic Chemistry in Starless and Prestellar Cores in Taurus***
-
-Astrochemists and astrobiologists are interested in understanding the origins of organic chemistry, the basis for life on Earth, and believe it is very likely to have had its origin at the very early stages of solar system formation. A starless, or prestellar, core is a dense clump of gas and dust which acts as a primordial birthplace for a low-mass (solar-type) star. I used the [ARO](http://aro.as.arizona.edu/) 12M radio dish on Kitt Peak to search for complex organic molecules (COMs) in prestellar cores located along the Taurus Molecular Cloud, a filamentary star forming region (shown below). By studying the chemistry within these cores we can better understand their physical properties and evolutionary timescales. [[Check out this astrobites article!]](https://astrobites.org/2020/03/16/coms-in-cores-complex-chemistry-in-dense-cores-in-the-taurus-star-forming-region/) & [[News Link]](https://news.arizona.edu/story/ingredients-life-appear-stellar-nurseries-long-stars-are-born)
-
-![Taurus Molecular Cloud](/images/hersh_mol_image.jpeg)
-
-*Adapted Herschel Image of the Taurus Molecular Cloud (~135pc away)*
-
-*Credit: ESA/Herschel/NASA/JPL-Caltech, CC BY-SA 3.0 IGO; Acknowledgement: R. Hurt (JPL-Caltech)*
-
-
-***3D Radiative Transfer Modeling***
-
-I am interested in understanding how these starless cores evolve by tracing not only their chemistry, but their physical structure. I performed 3D radiative transfer dust modeling with the code RADMC-3D, which was aided by high resolution (12 and 19 arcsecond) dust continuum maps (at 1.2mm and 2.0mm) of the B10 region within the same Taurus L1495 filament picture above. Constraints were placed on the central densities, density slopes, aspect ratios, dust opacities, and external radiation field strengths for 14 cores embedded within B10. The models were used to assess the stability and evolutionary state of each COM-rich core, which in turn has shed light on the conditions needed for COM chemistry to thrive.
-
-![PandoraModels](/images/forwebsite.jpeg)
-
-*Adapted from [Scibelli et al., 2023](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.4579S/abstract)*
-
-
-***Is Taurus Unique? Precursor Prebiotic Chemistry in the Perseus Molecular Cloud***
+***Precursor Prebiotic Chemistry in the Perseus Molecular Cloud***
 
 A large multi-source survey in the Perseus Molecular Cloud using both the [ARO](http://aro.as.arizona.edu/) 12m telescope and the [Yebes](https://rt40m.oan.es) 40m telescope found a prevalence of COMs in the majority of starless and prestellar cores targeted. [Check out Astrochem Podcast Episode!](https://coffee.astrochem.net/episodes/september-2024)
 
@@ -64,6 +44,26 @@ The [survey paper](https://ui.adsabs.harvard.edu/abs/2024MNRAS.533.4104S/abstrac
 
 
 ![PerseusMolecules](/images/pers_survey_fig_forweb_updated.jpeg)
+
+
+***3D Radiative Transfer Modeling***
+
+I am interested in understanding how these starless cores evolve by tracing not only their chemistry, but their physical structure. I performed 3D radiative transfer dust modeling with the code RADMC-3D, which was aided by high resolution (12 and 19 arcsecond) dust continuum maps (at 1.2mm and 2.0mm) of the B10 region within the same Taurus L1495 filament picture above. Constraints were placed on the central densities, density slopes, aspect ratios, dust opacities, and external radiation field strengths for 14 cores embedded within B10. The models were used to assess the stability and evolutionary state of each COM-rich core, which in turn has shed light on the conditions needed for COM chemistry to thrive.
+
+![PandoraModels](/images/forwebsite.jpeg)
+
+*Adapted from [Scibelli et al., 2023](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.4579S/abstract)*
+
+
+***Complex Organic Chemistry in Starless and Prestellar Cores in Taurus***
+
+Astrochemists and astrobiologists are interested in understanding the origins of organic chemistry, the basis for life on Earth, and believe it is very likely to have had its origin at the very early stages of solar system formation. A starless, or prestellar, core is a dense clump of gas and dust which acts as a primordial birthplace for a low-mass (solar-type) star. I used the [ARO](http://aro.as.arizona.edu/) 12M radio dish on Kitt Peak to search for complex organic molecules (COMs) in prestellar cores located along the Taurus Molecular Cloud, a filamentary star forming region (shown below). By studying the chemistry within these cores we can better understand their physical properties and evolutionary timescales. [[Check out this astrobites article!]](https://astrobites.org/2020/03/16/coms-in-cores-complex-chemistry-in-dense-cores-in-the-taurus-star-forming-region/) & [[News Link]](https://news.arizona.edu/story/ingredients-life-appear-stellar-nurseries-long-stars-are-born)
+
+![Taurus Molecular Cloud](/images/hersh_mol_image.jpeg)
+
+*Adapted Herschel Image of the Taurus Molecular Cloud (~135pc away)*
+
+*Credit: ESA/Herschel/NASA/JPL-Caltech, CC BY-SA 3.0 IGO; Acknowledgement: R. Hurt (JPL-Caltech)*
 
 
 <!--- and 3) follow-up IRAM 30\m observations that confirmed the first detection of the phosphorous molecules PN and PO.
