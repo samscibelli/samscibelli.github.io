@@ -29,7 +29,7 @@ I have also been featured in the [1MWIS campaign](http://www.1mwis.com/profiles/
 
 ***Precursor Prebiotic Chemistry in the Perseus Molecular Cloud***
 
-A large multi-source survey in the Perseus Molecular Cloud using both the [ARO](http://aro.as.arizona.edu/) 12m telescope and the [Yebes](https://rt40m.oan.es) 40m telescope found a prevalence of COMs in the majority of starless and prestellar cores targeted. Detections of formic acid, t-HCOOH, ketene, H2CCO, methyl cyanide, CH3CN, methanol, CH3OH, acetaldehyde, CH3CHO, vinyl cyanide, CH2CHCN, methyl formate, HCOOCH3 , and dimethyl ether, CH3OCH3, are seen in at least 20 per cent of the cores. Our findings have more than doubled COM detection statistics! [Check out Astrochem Podcast Episode!](https://coffee.astrochem.net/episodes/september-2024)
+A large multi-source survey in the Perseus Molecular Cloud using both the [ARO](http://aro.as.arizona.edu/) 12m telescope and the [Yebes](https://rt40m.oan.es) 40m telescope found a prevalence of COMs in the majority of starless and prestellar cores targeted. Detections of formic acid, t-HCOOH, ketene, H2CCO, methyl cyanide, CH3CN, methanol, CH3OH, acetaldehyde, CH3CHO, vinyl cyanide, CH2CHCN, methyl formate, HCOOCH3 , and dimethyl ether, CH3OCH3, are seen in at least 20 per cent of the cores. Our findings have more than doubled COM detection statistics in cold (10K) cores! [Check out Astrochem Podcast Episode!](https://coffee.astrochem.net/episodes/september-2024)
 
 The survey paper ([Scibelli et al., 2024](https://ui.adsabs.harvard.edu/abs/2024MNRAS.533.4104S/abstract)) has also led to numerous follow-up projects, including:
 
