@@ -4,7 +4,7 @@ permalink: /observing/
 author_profile: true
 ---
 
-I have had 38 proposals accepted as PI (including 1 largm program, GLUCOSE, with the GBT) and have observed over 2,000 hours! (See my CV for a full list) 
+I have had 38 proposals accepted as PI (including 1 largm program, GLUCOSE, with the GBT) and have observed over 2,000 hours! (See my [CV](http://samscibelli.github.io/files/Sam_Scibelli_CV.pdf) for a full list of proposals) 
 
 [**GBT Observations**](https://greenbankobservatory.org/science/gbt-surveys/)
 
