@@ -29,17 +29,17 @@ I have also been featured in the [1MWIS campaign](http://www.1mwis.com/profiles/
 
 ***Precursor Prebiotic Chemistry in the Perseus Molecular Cloud***
 
-A large multi-source survey in the Perseus Molecular Cloud using both the [ARO](http://aro.as.arizona.edu/) 12m telescope and the [Yebes](https://rt40m.oan.es) 40m telescope found a prevalence of COMs in the majority of starless and prestellar cores targeted. Detections of formic acid, t-HCOOH, ketene, H2CCO, methyl cyanide, CH3CN, methanol, CH3OH, acetaldehyde, CH3CHO, vinyl cyanide, CH2CHCN, methyl formate, HCOOCH3 , and dimethyl ether, CH3OCH3, are seen in at least 20% of the cores. Our findings have more than doubled COM detection statistics in cold (10K) cores! [Check out Astrochem Podcast Episode!](https://coffee.astrochem.net/episodes/september-2024)
+A large multi-source survey in the Perseus Molecular Cloud using both the [ARO](http://aro.as.arizona.edu/) 12m telescope and the [Yebes](https://rt40m.oan.es) 40m telescope found a prevalence of COMs in the majority of starless and prestellar cores targeted. Detections of formic acid, t-HCOOH, ketene, H2CCO, methyl cyanide, CH3CN, methanol, CH3OH, acetaldehyde, CH3CHO, vinyl cyanide, CH2CHCN, methyl formate, HCOOCH3 , and dimethyl ether, CH3OCH3, are seen in at least 20% of the cores. Our findings have more than doubled COM detection statistics in cold (10K) cores! Check out this [Astrochem Podcast Episode](https://coffee.astrochem.net/episodes/september-2024) to learn more!
 
 The survey paper ([Scibelli et al., 2024](https://ui.adsabs.harvard.edu/abs/2024MNRAS.533.4104S/abstract)) has also led to numerous follow-up projects, including:
 
   1. Comparisons to MHD simulated cores coupled with a time-dependent gas-grain model, which produce similar COM abundances (for CH3OH and CH3CN) to our observations ([Priestley et al., 2025](https://ui.adsabs.harvard.edu/abs/2025MNRAS.tmp..178P/abstract))!
    
-  2. The first detections of biologically relavant phosphorous-bearing molecules PN, PO and PO+ toward a shocked starless core [(Scibelli, et al., 2025a)](https://arxiv.org/abs/2504.17849)!
+  2. The first detections of biologically relavant phosphorous-bearing molecules PN, PO, and PO+ toward a shocked starless core [(Scibelli, et al., 2025a)](https://arxiv.org/abs/2504.17849)!
    
   3. Detections of numerous large carbon-chain species including cyanoplyynes (HCnN) and sulfur-bearing (CnS) carbon-chains *(Pokorny-Yadav, Scibelli, et al., in prep)*!
    
-  4. Succesive deuteration in COMs as well as the large carbon-chain c-C3H2 *(Ferrer Asensio, Scibelli et al., in prep)*!
+  4. Succesive deuteration in COMs as well as the organic carbon-chain species cyclopropenylidene, or c-C3H2 *(Ferrer Asensio, Scibelli et al., in prep)*!
 
 
 ![PerseusMolecules](/images/pers_survey_fig_forweb_updated.jpeg)
