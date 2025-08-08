@@ -8,7 +8,7 @@ All ADS Listings [here](https://ui.adsabs.harvard.edu/search/filter_database_fq_
 
 Featured Publications: 
 
-* **Scibelli, S.**, Megías, A., & Jiménez-Serra, I., et al., (2025) “First detections of PN, PO and PO+ toward a shocked low-mass starless core”; accepted to A&A
+* **Scibelli, S.**, Drozdovskaya, M., Caselli, P., et al., (2025) “Nascent chemical complexity in prestellar core IRAS 16293E: complex organics and deuterated methanol”; accepted to A&A
 [[arxiv](https://arxiv.org/abs/2508.04762))]
 
 
