@@ -8,6 +8,10 @@ All ADS Listings [here](https://ui.adsabs.harvard.edu/search/filter_database_fq_
 
 Featured Publications: 
 
+* **Scibelli, S.**, Megías, A., & Jiménez-Serra, I., et al., (2025) “First detections of PN, PO and PO+ toward a shocked low-mass starless core”; accepted to A&A
+[[arxiv](https://arxiv.org/abs/2508.04762))]
+
+
 * **Scibelli, S.**, Megías, A., & Jiménez-Serra, I., et al., (2025) “First detections of PN, PO and PO+ toward a shocked low-mass starless core”; ApJL, 985, 2
 [[ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250417849S/abstract), [arxiv](https://arxiv.org/abs/2504.17849)]
 
