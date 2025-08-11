@@ -56,7 +56,7 @@ The survey paper ([Scibelli et al., 2024](https://ui.adsabs.harvard.edu/abs/2024
 
 ***3D Radiative Transfer Modeling***
 
-I am interested in understanding how these starless cores evolve by tracing not only their chemistry, but their physical structure. I performed 3D radiative transfer dust modeling with the code RADMC-3D, which was aided by high resolution (12 and 19 arcsecond) dust continuum maps (at 1.2mm and 2.0mm) of the B10 region within the same Taurus L1495 filament pictured below. Constraints were placed on the central densities, density slopes, aspect ratios, dust opacities, and external radiation field strengths for 14 cores embedded within B10. The models were used to assess the stability and evolutionary state of each COM-rich core, which in turn has shed light on the conditions needed for COM chemistry to thrive.
+I am interested in understanding how starless and prestellar cores evolve by tracing not only their chemistry, but their physical structure. I performed 3D radiative transfer dust modeling with the code RADMC-3D, which was aided by high resolution (12 and 19 arcsecond) dust continuum maps (at 1.2mm and 2.0mm) of the B10 region within the same Taurus L1495 filament pictured below. Constraints were placed on the central densities, density slopes, aspect ratios, dust opacities, and external radiation field strengths for 14 cores embedded within B10. The models were used to assess the stability and evolutionary state of each COM-rich core, which in turn has shed light on the conditions needed for COM chemistry to thrive.
 
 ![PandoraModels](/images/forwebsite.jpeg)
 
