@@ -29,9 +29,11 @@ I have also been featured in the [1MWIS campaign](http://www.1mwis.com/profiles/
 
 ***Nacsent Complex Organic Chemistry in IRAS 16293E***
 
-In my most recent study [(Scibelli, et al., 2025b)](https://arxiv.org/abs/2508.04762) we look into the early presence of complex organic molecules or COMs (carbon-bearing with six or more atoms) in the prestellar core IRAS 16293E, which is a dense nursery of gas and dust that will eventually collapse to create a star like our Sun. It is still debated how much of the COM inventory is inherited to the next stages of star and planet formation, and so COMs with deuterium (the heavier hydrogen) can better probe chemical histories throughout the different stages because the degree of deuteration is ‘locked in’ early during the prestellar stage. We find striking similarities between relative molecular ratios and D/H values of singly deuterated and doubly deuterated methanol (CH2DOH and CHD2OH, respectively) when comparing IRAS 16293E to the A and B protostars, as well as to a heterogeneous sample of other prestellar cores, protostars, and the comet 67P/Churyumov-Gerasimenko! Our results strongly support the idea of COM inheritance from the prestellar to protostellar phase!!
+In my most recent study [(Scibelli, et al., 2025b)](https://arxiv.org/abs/2508.04762) we look into the early presence of complex organic molecules or COMs (carbon-bearing with six or more atoms) in the prestellar core IRAS 16293E, which is a dense nursery of gas and dust that will eventually collapse to create a star like our Sun. It is still debated how much of the COM inventory is inherited to the next stages of star and planet formation, and so COMs with deuterium (the heavier hydrogen) can better probe chemical histories throughout the different stages because the degree of deuteration is ‘locked in’ early during the prestellar stage. We find striking similarities between relative molecular ratios and D/H values of singly deuterated and doubly deuterated methanol (CH2DOH and CHD2OH, respectively) when comparing IRAS 16293E to the A and B protostars, as well as to a heterogeneous sample of other prestellar cores, protostars, and the comet 67P/Churyumov-Gerasimenko! Our results strongly support the idea of COM inheritance from the prestellar to protostellar phase!
 
 ![IRAS16293E](/images/IRAS16293_compare_A_B_E_methanol_web.jpeg)
+
+*Figure 6 in [(Scibelli, et al., 2025b)](https://arxiv.org/abs/2508.04762)*
 
 ***Precursor Prebiotic Chemistry in the Perseus Molecular Cloud***
 
@@ -50,6 +52,7 @@ The survey paper ([Scibelli et al., 2024](https://ui.adsabs.harvard.edu/abs/2024
 
 ![PerseusMolecules](/images/pers_survey_fig_forweb_updated.jpeg)
 
+*Adapted from [Scibelli et al., 2024](https://ui.adsabs.harvard.edu/abs/2024MNRAS.533.4104S/abstract)*
 
 ***3D Radiative Transfer Modeling***
 
