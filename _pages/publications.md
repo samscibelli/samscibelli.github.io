@@ -8,19 +8,16 @@ All ADS Listings [here](https://ui.adsabs.harvard.edu/search/filter_database_fq_
 
 Featured Publications: 
 
-* **Scibelli, S.**, Drozdovskaya, M., Caselli, P., et al., (2025) “Nascent chemical complexity in prestellar core IRAS 16293E: complex organics and deuterated methanol”; A&A, 702, id.A127
-[[ADS](https://ui.adsabs.harvard.edu/abs/2025A%26A...702A.127S/abstract), [arxiv](https://arxiv.org/abs/2508.04762)]
+* **Scibelli, S.**, Drozdovskaya, M., Caselli, P., et al., (2025) “Nascent chemical complexity in prestellar core IRAS 16293E: complex organics and deuterated methanol”; A&A, 702, id.A127. [[ADS](https://ui.adsabs.harvard.edu/abs/2025A%26A...702A.127S/abstract), [arxiv](https://arxiv.org/abs/2508.04762)]
 
 
-* **Scibelli, S.**, Megías, A., & Jiménez-Serra, I., et al., (2025) “First detections of PN, PO and PO+ toward a shocked low-mass starless core”; ApJL, 985, 2
-[[ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250417849S/abstract), [arxiv](https://arxiv.org/abs/2504.17849)]
+* **Scibelli, S.**, Megías, A., & Jiménez-Serra, I., et al., (2025) “First detections of PN, PO and PO+ toward a shocked low-mass starless core”; ApJL, 985, 2. [[ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250417849S/abstract), [arxiv](https://arxiv.org/abs/2504.17849)]
 
 * Priestley, F. D., Clark, P. C., Ragan, S. E., **Scibelli, S.**, et al., (2025) "NEATH IV: an early onset of complex organic chemistry in molecular clouds"; MNRAS, 537, 3. [[ADS](https://ui.adsabs.harvard.edu/abs/2025MNRAS.tmp..178P/abstract), [arxiv](https://arxiv.org/abs/2501.17955) ]
   
 * Siebert, M. A., Sahai, R., **Scibelli, S.**, Remijan, A. J., (2025) "Molecular Distributions and Abundances in the Binary-Shaped Outflow of V Hya"; ApJ, 979, 119. [[ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv241108120S/abstract), [arxiv](https://arxiv.org/abs/2411.08120)]
   
-* **Scibelli, S.**, Shirley, Y., Megías, A., & Jiménez-Serra, I., (2024) “Survey of Complex Organic Molecules in Starless and Prestellar Cores in the Perseus Molecular Cloud”; MNRAS, 533, 4. 
-[[ADS](https://ui.adsabs.harvard.edu/abs/2024MNRAS.533.4104S/abstract), [arxiv](https://arxiv.org/abs/2408.11613)]
+* **Scibelli, S.**, Shirley, Y., Megías, A., & Jiménez-Serra, I., (2024) “Survey of Complex Organic Molecules in Starless and Prestellar Cores in the Perseus Molecular Cloud”; MNRAS, 533, 4. [[ADS](https://ui.adsabs.harvard.edu/abs/2024MNRAS.533.4104S/abstract), [arxiv](https://arxiv.org/abs/2408.11613)]
 
 * **Scibelli, S.**, Shirley, Y., Schmiedeke, A., Svoboda, B., Singh, A., Lilly, J. & Caselli. P. (2023)  &quot;3D Radiative Transfer Modelling and Virial Analysis of Starless Cores in the B10 Region of the Taurus Molecular Cloud&quot; MNRAS, 521, 3. [[ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv230309574S/abstract),[arxiv](https://arxiv.org/abs/2303.09574)]
 
