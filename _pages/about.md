@@ -47,7 +47,7 @@ The survey paper ([Scibelli et al., 2024](https://ui.adsabs.harvard.edu/abs/2024
    
   3. Detections of numerous large carbon-chain species including cyanoplyynes (HCnN) and sulfur-bearing (CnS) carbon-chains *(Pokorny-Yadav, Scibelli, et al., in prep)*!
    
-  4. Succesive deuteration in COMs as well as the organic carbon-chain species cyclopropenylidene, or c-C3H2 *(Ferrer Asensio, Scibelli et al., in prep)*!
+  4. Succesive deuteration in COMs as well as the organic carbon-chain species cyclopropenylidene, or c-C3H2 [(Ferrer Asensio, Scibelli et al., 2026)](https://arxiv.org/abs/2601.13495)!
 
 
 ![PerseusMolecules](/images/pers_survey_fig_forweb_updated.jpeg)
