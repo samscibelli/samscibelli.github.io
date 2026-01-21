@@ -8,6 +8,8 @@ All ADS Listings [here](https://ui.adsabs.harvard.edu/search/filter_database_fq_
 
 Featured Publications: 
 
+* Ferrer Asensio, J., **Scibelli, S.**, L. Steffes, et al., (2026) "c-C3H2 deuteration towards prestellar and starless cores in the Perseus Molecular Cloud;" [[arxiv](https://arxiv.org/abs/2601.13495)]
+
 * **Scibelli, S.**, Drozdovskaya, M., Caselli, P., et al., (2025) “Nascent chemical complexity in prestellar core IRAS 16293E: complex organics and deuterated methanol”; A&A, 702, id.A127. [[ADS](https://ui.adsabs.harvard.edu/abs/2025A%26A...702A.127S/abstract), [arxiv](https://arxiv.org/abs/2508.04762)]
 
 
