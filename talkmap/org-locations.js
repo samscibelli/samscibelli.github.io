@@ -128,5 +128,20 @@ var addressPoints = [
     "Cork, Ireland",
     51.8985,
     -8.4756
+  ],
+  [
+    "Phoenix, AZ",
+    33.4484,
+    -112.0740
+  ],
+  [
+    "Bologna, Italy",
+     44.494, 
+     11.347
+  ],
+  [
+    "Kyushu University, Japan",
+      33.626659, 
+      130.425049
   ]
 ];
