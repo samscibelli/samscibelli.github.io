@@ -11,7 +11,7 @@ redirect_from:
 About Me
 ======
 
-Hi there! I'm Samantha Scibelli, a Jansky Postdoctoral Fellow at the [National Radio Astronomy Observatory (NRAO)](https://public.nrao.edu) in Charlottesville, VA. I am interested in the broader topics of star formation, astrochemistry, and radio astronomy. I primarily use millimeter and submillimeter telescopes (such as the ARO 12m, IRAM 30m, Yebes 40m, GBT, and ALMA) to probe the origins of organic chemistry, the basis for life on Earth, at the earliest stages of star and solar system formation, in dense molecular cores. See my [Current Research Interests](#current-research-interests), download my [CV](http://samscibelli.github.io/files/Sam_Scibelli_CV.pdf), and follow me on [ResearchGate](https://www.researchgate.net/profile/Samantha-Scibelli-2)!
+Hi there! I'm Samantha Scibelli, a NASA Hubble Fellowship Program (NHFP) Sagan Fellow at the [National Radio Astronomy Observatory (NRAO)](https://public.nrao.edu) in Charlottesville, VA. Prior to my Sagan Fellowship, I was a Jansky Postdoctoral Fellow, also at NRAO. I am interested in the broader topics of star formation, astrochemistry, and radio astronomy. I primarily use millimeter and submillimeter telescopes (such as the ARO 12m, IRAM 30m, Yebes 40m, GBT, and ALMA) to probe the origins of organic chemistry, the basis for life on Earth, at the earliest stages of star and solar system formation, in dense molecular cores. See my [Current Research Interests](#current-research-interests), download my [CV](http://samscibelli.github.io/files/Sam_Scibelli_CV.pdf), and follow me on [ResearchGate](https://www.researchgate.net/profile/Samantha-Scibelli-2)!
 
 Before my start at NRAO, I completed my PhD as a NSF Graduate Research Fellow in the Department of Astronomy and [Steward Observatory](https://www.as.arizona.edu/) at the University of Arizona. During my [thesis](https://ui.adsabs.harvard.edu/abs/2023PhDT........72S/abstract) I focused on constraining the physical, kinematic, and chemical structure of low-mass starless and prestellar cores to better understand their evolution. 
 
@@ -45,7 +45,7 @@ The survey paper ([Scibelli et al., 2024](https://ui.adsabs.harvard.edu/abs/2024
    
   2. The first detections of biologically relavant phosphorous-bearing molecules PN, PO, and PO+ toward a shocked starless core [(Scibelli, et al., 2025a)](https://arxiv.org/abs/2504.17849)!
    
-  3. Detections of numerous large carbon-chain species including cyanoplyynes (HCnN) and sulfur-bearing (CnS) carbon-chains *(Pokorny-Yadav, Scibelli, et al., in prep)*!
+  3. Detections of numerous large carbon-chain species including cyanoplyynes (HCnN) and sulfur-bearing (CnS) carbon-chains [(Pokorny-Yadav, Scibelli, et al., 2026)](https://arxiv.org/abs/2608.05264)!
    
   4. Succesive deuteration in COMs as well as the organic carbon-chain species cyclopropenylidene, or c-C3H2 [(Ferrer Asensio, Scibelli et al., 2026)](https://arxiv.org/abs/2601.13495)!
 
