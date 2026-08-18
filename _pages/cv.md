@@ -12,4 +12,4 @@ redirect_from:
 [Download CV here](http://samscibelli.github.io/files/Sam_Scibelli_CV.pdf)
   
  
-Last updated: March 2nd, 2026
+Last updated: August 18th, 2026
