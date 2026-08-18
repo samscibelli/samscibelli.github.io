@@ -8,6 +8,8 @@ All ADS Listings [here](https://ui.adsabs.harvard.edu/search/filter_database_fq_
 
 Featured Publications: 
 
+* Pokorny-Yadav, A., **Scibelli, S.**, et al., (2026) "Inventories of Rich Carbon-Chain Chemistry in Prestellar and Starless Cores in the Perseus Molecular Cloud;" MNRAS, stag1509 [[ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260805264P/abstract), [arxiv](https://arxiv.org/abs/2608.05264)]
+
 * Ferrer Asensio, J., **Scibelli, S.**, L. Steffes, et al., (2026) "c-C3H2 deuteration towards prestellar and starless cores in the Perseus Molecular Cloud;" A&A, 707, id.A28. [[ADS](https://ui.adsabs.harvard.edu/abs/2026A%26A...707A..28F/abstract), [arxiv](https://arxiv.org/abs/2601.13495)]
 
 * **Scibelli, S.**, Drozdovskaya, M., Caselli, P., et al., (2025) “Nascent chemical complexity in prestellar core IRAS 16293E: complex organics and deuterated methanol”; A&A, 702, id.A127. [[ADS](https://ui.adsabs.harvard.edu/abs/2025A%26A...702A.127S/abstract), [arxiv](https://arxiv.org/abs/2508.04762)]
