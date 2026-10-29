@@ -10,7 +10,7 @@ Featured Publications:
 
 * Ferrer Asensio, J., **Scibelli, S.**, L. Steffes, et al., (2026) "Sulphur-bearing molecule survey towards prestellar and starless cores in the Perseus molecular cloud;" accepted to A&A. [[ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv261017556F/abstract), [arxiv](https://arxiv.org/abs/2610.17556)]
 
-Cosentino, G., Priestley, F., **Scibelli, S.**, Fontani, F. (2026) "Chemical complexity in feedback from supernova remnants: first detection of PO+ in IC443 and W44;" accepted to A&A. [[ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv261001211C/abstract), [arxiv](https://arxiv.org/abs/2610.01211)]
+* Cosentino, G., Priestley, F., **Scibelli, S.**, Fontani, F. (2026) "Chemical complexity in feedback from supernova remnants: first detection of PO+ in IC443 and W44;" accepted to A&A. [[ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv261001211C/abstract), [arxiv](https://arxiv.org/abs/2610.01211)]
 
 * Pokorny-Yadav, A., **Scibelli, S.**, Ferrer Asensio, J., et al., (2026) "Inventories of Rich Carbon-Chain Chemistry in Prestellar and Starless Cores in the Perseus Molecular Cloud;" MNRAS, stag1509 [[ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260805264P/abstract), [arxiv](https://arxiv.org/abs/2608.05264)]
 
