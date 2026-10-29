@@ -41,13 +41,13 @@ A large multi-source survey in the Perseus Molecular Cloud using both the [ARO](
 
 The survey paper ([Scibelli et al., 2024](https://ui.adsabs.harvard.edu/abs/2024MNRAS.533.4104S/abstract)) has led to numerous follow-up projects, including:
 
-  1. Comparisons to MHD simulated cores coupled with a time-dependent gas-grain model, which produce similar COM abundances (for CH3OH and CH3CN) to our observations ([Priestley et al., 2025](https://ui.adsabs.harvard.edu/abs/2025MNRAS.tmp..178P/abstract))!
+  1. Comparisons to MHD simulated cores coupled with a time-dependent gas-grain model, which produce similar COM abundances (for CH3OH and CH3CN) to our observations ([Priestley et al., 2025](https://ui.adsabs.harvard.edu/abs/2025MNRAS.tmp..178P/abstract))
    
-  2. The first detections of biologically relavant phosphorous-bearing molecules PN, PO, and PO+ toward a shocked starless core [(Scibelli, et al., 2025a)](https://arxiv.org/abs/2504.17849)!
+  2. The first detections of biologically relavant phosphorous-bearing molecules PN, PO, and PO+ toward a shocked starless core [(Scibelli, et al., 2025a)](https://arxiv.org/abs/2504.17849)
    
-  3. Detections of numerous large carbon-chain species including cyanoplyynes (HCnN) and sulfur-bearing (CnS) carbon-chains [(Pokorny-Yadav, Scibelli, et al., 2026)](https://arxiv.org/abs/2608.05264)!
+  3. Detections of numerous large carbon-chain species including cyanoplyynes (HCnN) and sulfur-bearing (CnS) carbon-chains [(Pokorny-Yadav, Scibelli, et al., 2026)](https://arxiv.org/abs/2608.05264)
    
-  4. Succesive deuteration in COMs as well as the organic carbon-chain species cyclopropenylidene, or c-C3H2 [(Ferrer Asensio, Scibelli et al., 2026a, ](https://arxiv.org/abs/2601.13495), Ferrer Asensio, Scibelli et al., *in prep*)!
+  4. Succesive deuteration in COMs as well as the organic carbon-chain species cyclopropenylidene, or c-C3H2 [(Ferrer Asensio, Scibelli et al., 2026a, ](https://arxiv.org/abs/2601.13495), Ferrer Asensio, Scibelli et al., *in prep*)
      
   5. Compilation and comparison of small sulfur-bearing species, HCS+, OCS, H2CS and SO, across the core sample [(Ferrer Asensio, Scibelli et al., 2026b)](https://arxiv.org/abs/2610.17556)
 
