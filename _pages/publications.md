@@ -8,12 +8,15 @@ All ADS Listings [here](https://ui.adsabs.harvard.edu/search/filter_database_fq_
 
 Featured Publications: 
 
-* Pokorny-Yadav, A., **Scibelli, S.**, et al., (2026) "Inventories of Rich Carbon-Chain Chemistry in Prestellar and Starless Cores in the Perseus Molecular Cloud;" MNRAS, stag1509 [[ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260805264P/abstract), [arxiv](https://arxiv.org/abs/2608.05264)]
+* Ferrer Asensio, J., **Scibelli, S.**, L. Steffes, et al., (2026) "Sulphur-bearing molecule survey towards prestellar and starless cores in the Perseus molecular cloud;" accepted to A&A. [[ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv261017556F/abstract), [arxiv](https://arxiv.org/abs/2610.17556)]
 
-* Ferrer Asensio, J., **Scibelli, S.**, L. Steffes, et al., (2026) "c-C3H2 deuteration towards prestellar and starless cores in the Perseus Molecular Cloud;" A&A, 707, id.A28. [[ADS](https://ui.adsabs.harvard.edu/abs/2026A%26A...707A..28F/abstract), [arxiv](https://arxiv.org/abs/2601.13495)]
+Cosentino, G., Priestley, F., **Scibelli, S.**, Fontani, F. (2026) "Chemical complexity in feedback from supernova remnants: first detection of PO+ in IC443 and W44;" accepted to A&A. [[ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv261001211C/abstract), [arxiv](https://arxiv.org/abs/2610.01211)]
+
+* Pokorny-Yadav, A., **Scibelli, S.**, Ferrer Asensio, J., et al., (2026) "Inventories of Rich Carbon-Chain Chemistry in Prestellar and Starless Cores in the Perseus Molecular Cloud;" MNRAS, stag1509 [[ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260805264P/abstract), [arxiv](https://arxiv.org/abs/2608.05264)]
+
+* Ferrer Asensio, J., **Scibelli, S.**, Steffes, L., et al., (2026) "c-C3H2 deuteration towards prestellar and starless cores in the Perseus Molecular Cloud;" A&A, 707, id.A28. [[ADS](https://ui.adsabs.harvard.edu/abs/2026A%26A...707A..28F/abstract), [arxiv](https://arxiv.org/abs/2601.13495)]
 
 * **Scibelli, S.**, Drozdovskaya, M., Caselli, P., et al., (2025) “Nascent chemical complexity in prestellar core IRAS 16293E: complex organics and deuterated methanol”; A&A, 702, id.A127. [[ADS](https://ui.adsabs.harvard.edu/abs/2025A%26A...702A.127S/abstract), [arxiv](https://arxiv.org/abs/2508.04762)]
-
 
 * **Scibelli, S.**, Megías, A., & Jiménez-Serra, I., et al., (2025) “First detections of PN, PO and PO+ toward a shocked low-mass starless core”; ApJL, 985, 2. [[ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250417849S/abstract), [arxiv](https://arxiv.org/abs/2504.17849)]
 
@@ -26,7 +29,6 @@ Featured Publications:
 * **Scibelli, S.**, Shirley, Y., Schmiedeke, A., Svoboda, B., Singh, A., Lilly, J. & Caselli. P. (2023)  &quot;3D Radiative Transfer Modelling and Virial Analysis of Starless Cores in the B10 Region of the Taurus Molecular Cloud&quot; MNRAS, 521, 3. [[ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv230309574S/abstract),[arxiv](https://arxiv.org/abs/2303.09574)]
 
 * Sahai, R., Huang, P-S., **Scibelli, S.**, Morris, M. R., Hinkle, K., & Lee, C-F. (2022) &quot;The Rapidly Evolving Asymptotic Giant Branch Star, V Hya: ALMA Finds a Multiring Circus with High-velocity Outflows&quot; ApJ, 929, 1. [[ADS](https://ui.adsabs.harvard.edu/abs/2022ApJ...929...59S/abstract), [arxiv](https://arxiv.org/abs/2202.09335)]
-
 
 * **Scibelli, S.**, Shirley, Y., Vasyunin, A. & Launhardt, R. (2021) &quot;Detection of Complex Organic Molecules in Young Starless Core L1521E&quot; MNRAS, 504, 4. [[ADS](https://ui.adsabs.harvard.edu/abs/2021arXiv210407683S/abstract),[arxiv](https://arxiv.org/abs/2104.07683)]
 
