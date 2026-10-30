@@ -12,6 +12,8 @@ Featured Publications:
 
 * Cosentino, G., Priestley, F., **Scibelli, S.**, Fontani, F. (2026) "Chemical complexity in feedback from supernova remnants: first detection of PO+ in IC443 and W44;" accepted to A&A. [[ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv261001211C/abstract), [arxiv](https://arxiv.org/abs/2610.01211)]
 
+* Andras-Letanovszky, H., Shirley, Y., Steffes, L. J., Svoboda, B., Gruber, H., **Scibelli, S.** and Vertachnik, E. (2026) "Deuteration of Organic Molecules as a Probe of Starless Core and Filament Evolution in Barnard 10;" PASP, 138, 9, 094302. [[ADS](https://ui.adsabs.harvard.edu/abs/2026PASP..138i4302A/abstract), [arxiv](https://arxiv.org/abs/2609.00308)]
+  
 * Pokorny-Yadav, A., **Scibelli, S.**, Ferrer Asensio, J., et al., (2026) "Inventories of Rich Carbon-Chain Chemistry in Prestellar and Starless Cores in the Perseus Molecular Cloud;" MNRAS, stag1509 [[ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260805264P/abstract), [arxiv](https://arxiv.org/abs/2608.05264)]
 
 * Ferrer Asensio, J., **Scibelli, S.**, Steffes, L., et al., (2026) "c-C3H2 deuteration towards prestellar and starless cores in the Perseus Molecular Cloud;" A&A, 707, id.A28. [[ADS](https://ui.adsabs.harvard.edu/abs/2026A%26A...707A..28F/abstract), [arxiv](https://arxiv.org/abs/2601.13495)]
